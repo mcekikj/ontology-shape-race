@@ -71,8 +71,9 @@ you run a cheap model.
   the full tool-call trace, tokens, latency, answer and verdict. This is what
   every number in the article is computed from (plus the pilot run, kept for
   completeness but read by nothing)
-- `figures/` - the results-table and JSON-triptych renderers and their PNG
-  output, both computed from the committed data
+- `figures/` - `tables.py` renders all seven of the article's tables and
+  `json_triptych.py` the raw-data comparison; every value is computed from the
+  receipts and the graph files, so a re-run re-renders correct figures
 - `diagrams/` - mermaid sources, `render.py`, and the rendered PNGs
 - `docs/azure-setup.md` - infrastructure, run and teardown guide
 - `docs/gremlin-queries.md` - the same questions asked of all three graphs in

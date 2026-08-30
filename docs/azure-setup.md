@@ -91,7 +91,7 @@ python3 analyze.py
 python3 run_experiment.py --deployment agent-small --runs 3 --store json
 
 # regenerate the article's figures and diagrams
-python3 ../figures/table_results.py
+python3 ../figures/tables.py
 python3 ../figures/json_triptych.py
 python3 ../diagrams/render.py
 ```
