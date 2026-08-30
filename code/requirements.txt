@@ -1,0 +1,6 @@
+openai>=1.75.0
+azure-identity>=1.19.0
+# the agent's tools query Cosmos DB for Gremlin by default
+gremlinpython>=3.7.0
+# figures only
+pillow>=10.0.0

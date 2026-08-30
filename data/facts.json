@@ -1,0 +1,4094 @@
+{
+  "insurer": "Aldervane Mutual (fictional)",
+  "seed": 20260828,
+  "entities": {
+    "regions": [
+      {
+        "id": "RG-01",
+        "name": "Northreach"
+      },
+      {
+        "id": "RG-02",
+        "name": "Veyland"
+      },
+      {
+        "id": "RG-03",
+        "name": "Amberfen"
+      },
+      {
+        "id": "RG-04",
+        "name": "Stonehollow"
+      },
+      {
+        "id": "RG-05",
+        "name": "Cresmoor"
+      }
+    ],
+    "adjusters": [
+      {
+        "id": "AJ-01",
+        "name": "Mireille Renner",
+        "region_id": "RG-01",
+        "seniority": "principal"
+      },
+      {
+        "id": "AJ-02",
+        "name": "Malin Marwick",
+        "region_id": "RG-02",
+        "seniority": "junior"
+      },
+      {
+        "id": "AJ-03",
+        "name": "Elsa Duval",
+        "region_id": "RG-03",
+        "seniority": "junior"
+      },
+      {
+        "id": "AJ-04",
+        "name": "Maren Sablon",
+        "region_id": "RG-04",
+        "seniority": "junior"
+      },
+      {
+        "id": "AJ-05",
+        "name": "Noor Kraal",
+        "region_id": "RG-05",
+        "seniority": "junior"
+      },
+      {
+        "id": "AJ-06",
+        "name": "Malin Oduya",
+        "region_id": "RG-01",
+        "seniority": "principal"
+      },
+      {
+        "id": "AJ-07",
+        "name": "Bram Ferber",
+        "region_id": "RG-02",
+        "seniority": "junior"
+      },
+      {
+        "id": "AJ-08",
+        "name": "Odile Voss",
+        "region_id": "RG-03",
+        "seniority": "principal"
+      },
+      {
+        "id": "AJ-09",
+        "name": "Casper Harmsen",
+        "region_id": "RG-04",
+        "seniority": "principal"
+      },
+      {
+        "id": "AJ-10",
+        "name": "Mireille Oduya",
+        "region_id": "RG-05",
+        "seniority": "principal"
+      }
+    ],
+    "providers": [
+      {
+        "id": "PR-01",
+        "name": "Cedarline Collision Works",
+        "region_id": "RG-01",
+        "specialty": "paint"
+      },
+      {
+        "id": "PR-02",
+        "name": "Amberfen Repair Co",
+        "region_id": "RG-02",
+        "specialty": "electrical"
+      },
+      {
+        "id": "PR-03",
+        "name": "Stonehollow Motorworks",
+        "region_id": "RG-03",
+        "specialty": "glass"
+      },
+      {
+        "id": "PR-04",
+        "name": "Bluegate Motorworks",
+        "region_id": "RG-04",
+        "specialty": "paint"
+      },
+      {
+        "id": "PR-05",
+        "name": "Ironquay Repair Co",
+        "region_id": "RG-05",
+        "specialty": "frame"
+      },
+      {
+        "id": "PR-06",
+        "name": "Larkfield Restoration",
+        "region_id": "RG-01",
+        "specialty": "bodywork"
+      },
+      {
+        "id": "PR-07",
+        "name": "Veyland Restoration",
+        "region_id": "RG-02",
+        "specialty": "paint"
+      },
+      {
+        "id": "PR-08",
+        "name": "Marrowpoint Restoration",
+        "region_id": "RG-03",
+        "specialty": "bodywork"
+      },
+      {
+        "id": "PR-09",
+        "name": "Duskwater Repair Co",
+        "region_id": "RG-04",
+        "specialty": "glass"
+      },
+      {
+        "id": "PR-10",
+        "name": "Fernvale Restoration",
+        "region_id": "RG-05",
+        "specialty": "frame"
+      },
+      {
+        "id": "PR-11",
+        "name": "Coldharbour Motorworks",
+        "region_id": "RG-01",
+        "specialty": "bodywork"
+      },
+      {
+        "id": "PR-12",
+        "name": "Wrenfield Restoration",
+        "region_id": "RG-02",
+        "specialty": "glass"
+      }
+    ],
+    "policyholders": [
+      {
+        "id": "PH-01",
+        "name": "Ivo Voss",
+        "city": "Ostbay",
+        "since_year": 2016
+      },
+      {
+        "id": "PH-02",
+        "name": "Fenna Voss",
+        "city": "Dunmere",
+        "since_year": 2012
+      },
+      {
+        "id": "PH-03",
+        "name": "Maren Stroud",
+        "city": "Dunmere",
+        "since_year": 2012
+      },
+      {
+        "id": "PH-04",
+        "name": "Elsa Stroud",
+        "city": "Larkfield",
+        "since_year": 2018
+      },
+      {
+        "id": "PH-05",
+        "name": "Ivo Renner",
+        "city": "Ostbay",
+        "since_year": 2013
+      },
+      {
+        "id": "PH-06",
+        "name": "Sanne Fenwick",
+        "city": "Silverden",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-07",
+        "name": "Ivo Quist",
+        "city": "Dunmere",
+        "since_year": 2015
+      },
+      {
+        "id": "PH-08",
+        "name": "Stellan Oduya",
+        "city": "Silverden",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-09",
+        "name": "Stellan Fenwick",
+        "city": "Ostbay",
+        "since_year": 2012
+      },
+      {
+        "id": "PH-10",
+        "name": "Bram Stroud",
+        "city": "Ostbay",
+        "since_year": 2019
+      },
+      {
+        "id": "PH-11",
+        "name": "Ilka Abernath",
+        "city": "Larkfield",
+        "since_year": 2014
+      },
+      {
+        "id": "PH-12",
+        "name": "Greet Vantour",
+        "city": "Corriston",
+        "since_year": 2017
+      },
+      {
+        "id": "PH-13",
+        "name": "Ilka Duval",
+        "city": "Larkfield",
+        "since_year": 2024
+      },
+      {
+        "id": "PH-14",
+        "name": "Petra Vantour",
+        "city": "Ostbay",
+        "since_year": 2021
+      },
+      {
+        "id": "PH-15",
+        "name": "Fenna Duval",
+        "city": "Tarnholm",
+        "since_year": 2016
+      },
+      {
+        "id": "PH-16",
+        "name": "Anouk Voss",
+        "city": "Ostbay",
+        "since_year": 2023
+      },
+      {
+        "id": "PH-17",
+        "name": "Malin Renner",
+        "city": "Veldmark",
+        "since_year": 2019
+      },
+      {
+        "id": "PH-18",
+        "name": "Elsa Sablon",
+        "city": "Tarnholm",
+        "since_year": 2015
+      },
+      {
+        "id": "PH-19",
+        "name": "Greet Corvelle",
+        "city": "Veldmark",
+        "since_year": 2016
+      },
+      {
+        "id": "PH-20",
+        "name": "Jonas Corvelle",
+        "city": "Silverden",
+        "since_year": 2017
+      },
+      {
+        "id": "PH-21",
+        "name": "Aldo Aldering",
+        "city": "Veldmark",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-22",
+        "name": "Dario Vantour",
+        "city": "Larkfield",
+        "since_year": 2019
+      },
+      {
+        "id": "PH-23",
+        "name": "Jonas Halloway",
+        "city": "Ostbay",
+        "since_year": 2023
+      },
+      {
+        "id": "PH-24",
+        "name": "Sten Renner",
+        "city": "Larkfield",
+        "since_year": 2024
+      },
+      {
+        "id": "PH-25",
+        "name": "Noor Abernath",
+        "city": "Ostbay",
+        "since_year": 2019
+      },
+      {
+        "id": "PH-26",
+        "name": "Elsa Fenwick",
+        "city": "Corriston",
+        "since_year": 2012
+      },
+      {
+        "id": "PH-27",
+        "name": "Vera Bexley",
+        "city": "Brackwell",
+        "since_year": 2021
+      },
+      {
+        "id": "PH-28",
+        "name": "Jonas Renner",
+        "city": "Tarnholm",
+        "since_year": 2024
+      },
+      {
+        "id": "PH-29",
+        "name": "Sten Stroud",
+        "city": "Ostbay",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-30",
+        "name": "Rurik Voss",
+        "city": "Dunmere",
+        "since_year": 2017
+      },
+      {
+        "id": "PH-31",
+        "name": "Jonas Stroud",
+        "city": "Larkfield",
+        "since_year": 2021
+      },
+      {
+        "id": "PH-32",
+        "name": "Petra Stroud",
+        "city": "Corriston",
+        "since_year": 2023
+      },
+      {
+        "id": "PH-33",
+        "name": "Petra Quist",
+        "city": "Larkfield",
+        "since_year": 2016
+      },
+      {
+        "id": "PH-34",
+        "name": "Ilka Ferber",
+        "city": "Corriston",
+        "since_year": 2021
+      },
+      {
+        "id": "PH-35",
+        "name": "Casper Bexley",
+        "city": "Brackwell",
+        "since_year": 2015
+      },
+      {
+        "id": "PH-36",
+        "name": "Sten Voss",
+        "city": "Corriston",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-37",
+        "name": "Fenna Marwick",
+        "city": "Tarnholm",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-38",
+        "name": "Noor Sablon",
+        "city": "Brackwell",
+        "since_year": 2017
+      },
+      {
+        "id": "PH-39",
+        "name": "Maren Oduya",
+        "city": "Veldmark",
+        "since_year": 2020
+      },
+      {
+        "id": "PH-40",
+        "name": "Dario Marwick",
+        "city": "Veldmark",
+        "since_year": 2012
+      }
+    ],
+    "policies": [
+      {
+        "id": "PL-001",
+        "number": "P-7001",
+        "holder_id": "PH-01",
+        "product": "home",
+        "start_year": 2025,
+        "premium": 1350,
+        "renewed_from_id": "PL-003"
+      },
+      {
+        "id": "PL-002",
+        "number": "P-7002",
+        "holder_id": "PH-01",
+        "product": "marine",
+        "start_year": 2019,
+        "premium": 1550,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-003",
+        "number": "P-7003",
+        "holder_id": "PH-01",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 2950,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-004",
+        "number": "P-7004",
+        "holder_id": "PH-02",
+        "product": "home",
+        "start_year": 2025,
+        "premium": 2200,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-005",
+        "number": "P-7005",
+        "holder_id": "PH-03",
+        "product": "auto",
+        "start_year": 2022,
+        "premium": 1450,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-006",
+        "number": "P-7006",
+        "holder_id": "PH-04",
+        "product": "marine",
+        "start_year": 2019,
+        "premium": 400,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-007",
+        "number": "P-7007",
+        "holder_id": "PH-04",
+        "product": "auto",
+        "start_year": 2025,
+        "premium": 1200,
+        "renewed_from_id": "PL-006"
+      },
+      {
+        "id": "PL-008",
+        "number": "P-7008",
+        "holder_id": "PH-04",
+        "product": "marine",
+        "start_year": 2020,
+        "premium": 3000,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-009",
+        "number": "P-7009",
+        "holder_id": "PH-05",
+        "product": "home",
+        "start_year": 2023,
+        "premium": 750,
+        "renewed_from_id": "PL-010"
+      },
+      {
+        "id": "PL-010",
+        "number": "P-7010",
+        "holder_id": "PH-05",
+        "product": "auto",
+        "start_year": 2022,
+        "premium": 2200,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-011",
+        "number": "P-7011",
+        "holder_id": "PH-06",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 2600,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-012",
+        "number": "P-7012",
+        "holder_id": "PH-07",
+        "product": "marine",
+        "start_year": 2024,
+        "premium": 2300,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-013",
+        "number": "P-7013",
+        "holder_id": "PH-07",
+        "product": "auto",
+        "start_year": 2019,
+        "premium": 1250,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-014",
+        "number": "P-7014",
+        "holder_id": "PH-08",
+        "product": "marine",
+        "start_year": 2021,
+        "premium": 3150,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-015",
+        "number": "P-7015",
+        "holder_id": "PH-08",
+        "product": "auto",
+        "start_year": 2025,
+        "premium": 2500,
+        "renewed_from_id": "PL-014"
+      },
+      {
+        "id": "PL-016",
+        "number": "P-7016",
+        "holder_id": "PH-09",
+        "product": "auto",
+        "start_year": 2021,
+        "premium": 2400,
+        "renewed_from_id": "PL-017"
+      },
+      {
+        "id": "PL-017",
+        "number": "P-7017",
+        "holder_id": "PH-09",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 1700,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-018",
+        "number": "P-7018",
+        "holder_id": "PH-09",
+        "product": "auto",
+        "start_year": 2020,
+        "premium": 2300,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-019",
+        "number": "P-7019",
+        "holder_id": "PH-10",
+        "product": "home",
+        "start_year": 2023,
+        "premium": 550,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-020",
+        "number": "P-7020",
+        "holder_id": "PH-11",
+        "product": "auto",
+        "start_year": 2018,
+        "premium": 1300,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-021",
+        "number": "P-7021",
+        "holder_id": "PH-12",
+        "product": "auto",
+        "start_year": 2018,
+        "premium": 1400,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-022",
+        "number": "P-7022",
+        "holder_id": "PH-12",
+        "product": "auto",
+        "start_year": 2020,
+        "premium": 1350,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-023",
+        "number": "P-7023",
+        "holder_id": "PH-12",
+        "product": "marine",
+        "start_year": 2021,
+        "premium": 2600,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-024",
+        "number": "P-7024",
+        "holder_id": "PH-13",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 2900,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-025",
+        "number": "P-7025",
+        "holder_id": "PH-14",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 700,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-026",
+        "number": "P-7026",
+        "holder_id": "PH-14",
+        "product": "auto",
+        "start_year": 2020,
+        "premium": 600,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-027",
+        "number": "P-7027",
+        "holder_id": "PH-14",
+        "product": "marine",
+        "start_year": 2022,
+        "premium": 1050,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-028",
+        "number": "P-7028",
+        "holder_id": "PH-15",
+        "product": "auto",
+        "start_year": 2022,
+        "premium": 2450,
+        "renewed_from_id": "PL-029"
+      },
+      {
+        "id": "PL-029",
+        "number": "P-7029",
+        "holder_id": "PH-15",
+        "product": "home",
+        "start_year": 2020,
+        "premium": 950,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-030",
+        "number": "P-7030",
+        "holder_id": "PH-15",
+        "product": "home",
+        "start_year": 2020,
+        "premium": 1350,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-031",
+        "number": "P-7031",
+        "holder_id": "PH-16",
+        "product": "auto",
+        "start_year": 2019,
+        "premium": 950,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-032",
+        "number": "P-7032",
+        "holder_id": "PH-16",
+        "product": "home",
+        "start_year": 2024,
+        "premium": 1800,
+        "renewed_from_id": "PL-031"
+      },
+      {
+        "id": "PL-033",
+        "number": "P-7033",
+        "holder_id": "PH-17",
+        "product": "auto",
+        "start_year": 2025,
+        "premium": 2150,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-034",
+        "number": "P-7034",
+        "holder_id": "PH-18",
+        "product": "home",
+        "start_year": 2025,
+        "premium": 2600,
+        "renewed_from_id": "PL-035"
+      },
+      {
+        "id": "PL-035",
+        "number": "P-7035",
+        "holder_id": "PH-18",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 1750,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-036",
+        "number": "P-7036",
+        "holder_id": "PH-19",
+        "product": "auto",
+        "start_year": 2021,
+        "premium": 3000,
+        "renewed_from_id": "PL-037"
+      },
+      {
+        "id": "PL-037",
+        "number": "P-7037",
+        "holder_id": "PH-19",
+        "product": "marine",
+        "start_year": 2019,
+        "premium": 2250,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-038",
+        "number": "P-7038",
+        "holder_id": "PH-20",
+        "product": "home",
+        "start_year": 2024,
+        "premium": 1450,
+        "renewed_from_id": "PL-039"
+      },
+      {
+        "id": "PL-039",
+        "number": "P-7039",
+        "holder_id": "PH-20",
+        "product": "home",
+        "start_year": 2019,
+        "premium": 1250,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-040",
+        "number": "P-7040",
+        "holder_id": "PH-21",
+        "product": "home",
+        "start_year": 2020,
+        "premium": 750,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-041",
+        "number": "P-7041",
+        "holder_id": "PH-21",
+        "product": "auto",
+        "start_year": 2024,
+        "premium": 800,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-042",
+        "number": "P-7042",
+        "holder_id": "PH-21",
+        "product": "marine",
+        "start_year": 2024,
+        "premium": 1600,
+        "renewed_from_id": "PL-040"
+      },
+      {
+        "id": "PL-043",
+        "number": "P-7043",
+        "holder_id": "PH-22",
+        "product": "marine",
+        "start_year": 2024,
+        "premium": 1100,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-044",
+        "number": "P-7044",
+        "holder_id": "PH-23",
+        "product": "home",
+        "start_year": 2021,
+        "premium": 1950,
+        "renewed_from_id": "PL-045"
+      },
+      {
+        "id": "PL-045",
+        "number": "P-7045",
+        "holder_id": "PH-23",
+        "product": "auto",
+        "start_year": 2020,
+        "premium": 3050,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-046",
+        "number": "P-7046",
+        "holder_id": "PH-24",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 1600,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-047",
+        "number": "P-7047",
+        "holder_id": "PH-24",
+        "product": "auto",
+        "start_year": 2018,
+        "premium": 450,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-048",
+        "number": "P-7048",
+        "holder_id": "PH-24",
+        "product": "home",
+        "start_year": 2022,
+        "premium": 2000,
+        "renewed_from_id": "PL-046"
+      },
+      {
+        "id": "PL-049",
+        "number": "P-7049",
+        "holder_id": "PH-25",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 1650,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-050",
+        "number": "P-7050",
+        "holder_id": "PH-26",
+        "product": "marine",
+        "start_year": 2022,
+        "premium": 400,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-051",
+        "number": "P-7051",
+        "holder_id": "PH-27",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 2850,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-052",
+        "number": "P-7052",
+        "holder_id": "PH-28",
+        "product": "auto",
+        "start_year": 2021,
+        "premium": 2550,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-053",
+        "number": "P-7053",
+        "holder_id": "PH-28",
+        "product": "home",
+        "start_year": 2024,
+        "premium": 1850,
+        "renewed_from_id": "PL-052"
+      },
+      {
+        "id": "PL-054",
+        "number": "P-7054",
+        "holder_id": "PH-29",
+        "product": "auto",
+        "start_year": 2022,
+        "premium": 1100,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-055",
+        "number": "P-7055",
+        "holder_id": "PH-30",
+        "product": "home",
+        "start_year": 2021,
+        "premium": 1350,
+        "renewed_from_id": "PL-056"
+      },
+      {
+        "id": "PL-056",
+        "number": "P-7056",
+        "holder_id": "PH-30",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 950,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-057",
+        "number": "P-7057",
+        "holder_id": "PH-31",
+        "product": "home",
+        "start_year": 2024,
+        "premium": 700,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-058",
+        "number": "P-7058",
+        "holder_id": "PH-32",
+        "product": "home",
+        "start_year": 2024,
+        "premium": 900,
+        "renewed_from_id": "PL-059"
+      },
+      {
+        "id": "PL-059",
+        "number": "P-7059",
+        "holder_id": "PH-32",
+        "product": "home",
+        "start_year": 2021,
+        "premium": 3150,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-060",
+        "number": "P-7060",
+        "holder_id": "PH-33",
+        "product": "home",
+        "start_year": 2020,
+        "premium": 650,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-061",
+        "number": "P-7061",
+        "holder_id": "PH-33",
+        "product": "home",
+        "start_year": 2020,
+        "premium": 3150,
+        "renewed_from_id": "PL-060"
+      },
+      {
+        "id": "PL-062",
+        "number": "P-7062",
+        "holder_id": "PH-34",
+        "product": "auto",
+        "start_year": 2019,
+        "premium": 2950,
+        "renewed_from_id": "PL-063"
+      },
+      {
+        "id": "PL-063",
+        "number": "P-7063",
+        "holder_id": "PH-34",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 2800,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-064",
+        "number": "P-7064",
+        "holder_id": "PH-35",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 2300,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-065",
+        "number": "P-7065",
+        "holder_id": "PH-35",
+        "product": "home",
+        "start_year": 2025,
+        "premium": 3100,
+        "renewed_from_id": "PL-064"
+      },
+      {
+        "id": "PL-066",
+        "number": "P-7066",
+        "holder_id": "PH-36",
+        "product": "auto",
+        "start_year": 2024,
+        "premium": 500,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-067",
+        "number": "P-7067",
+        "holder_id": "PH-37",
+        "product": "auto",
+        "start_year": 2020,
+        "premium": 2550,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-068",
+        "number": "P-7068",
+        "holder_id": "PH-37",
+        "product": "home",
+        "start_year": 2024,
+        "premium": 2950,
+        "renewed_from_id": "PL-067"
+      },
+      {
+        "id": "PL-069",
+        "number": "P-7069",
+        "holder_id": "PH-38",
+        "product": "home",
+        "start_year": 2022,
+        "premium": 450,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-070",
+        "number": "P-7070",
+        "holder_id": "PH-38",
+        "product": "home",
+        "start_year": 2018,
+        "premium": 2900,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-071",
+        "number": "P-7071",
+        "holder_id": "PH-38",
+        "product": "marine",
+        "start_year": 2018,
+        "premium": 2100,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-072",
+        "number": "P-7072",
+        "holder_id": "PH-39",
+        "product": "auto",
+        "start_year": 2021,
+        "premium": 2400,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-073",
+        "number": "P-7073",
+        "holder_id": "PH-39",
+        "product": "marine",
+        "start_year": 2020,
+        "premium": 1400,
+        "renewed_from_id": null
+      },
+      {
+        "id": "PL-074",
+        "number": "P-7074",
+        "holder_id": "PH-39",
+        "product": "home",
+        "start_year": 2025,
+        "premium": 2350,
+        "renewed_from_id": "PL-073"
+      },
+      {
+        "id": "PL-075",
+        "number": "P-7075",
+        "holder_id": "PH-40",
+        "product": "auto",
+        "start_year": 2021,
+        "premium": 1550,
+        "renewed_from_id": null
+      }
+    ],
+    "coverages": [
+      {
+        "id": "CV-001",
+        "policy_id": "PL-001",
+        "kind": "flood",
+        "limit": 32200,
+        "deductible": 750
+      },
+      {
+        "id": "CV-002",
+        "policy_id": "PL-001",
+        "kind": "liability",
+        "limit": 24650,
+        "deductible": 500
+      },
+      {
+        "id": "CV-003",
+        "policy_id": "PL-001",
+        "kind": "theft",
+        "limit": 43100,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-004",
+        "policy_id": "PL-001",
+        "kind": "fire",
+        "limit": 13900,
+        "deductible": 600
+      },
+      {
+        "id": "CV-005",
+        "policy_id": "PL-002",
+        "kind": "liability",
+        "limit": 20000,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-006",
+        "policy_id": "PL-002",
+        "kind": "salvage",
+        "limit": 81650,
+        "deductible": 700
+      },
+      {
+        "id": "CV-007",
+        "policy_id": "PL-003",
+        "kind": "theft",
+        "limit": 78950,
+        "deductible": 600
+      },
+      {
+        "id": "CV-008",
+        "policy_id": "PL-003",
+        "kind": "liability",
+        "limit": 56200,
+        "deductible": 100
+      },
+      {
+        "id": "CV-009",
+        "policy_id": "PL-003",
+        "kind": "fire",
+        "limit": 52050,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-010",
+        "policy_id": "PL-004",
+        "kind": "liability",
+        "limit": 65850,
+        "deductible": 900
+      },
+      {
+        "id": "CV-011",
+        "policy_id": "PL-004",
+        "kind": "flood",
+        "limit": 36600,
+        "deductible": 200
+      },
+      {
+        "id": "CV-012",
+        "policy_id": "PL-004",
+        "kind": "fire",
+        "limit": 7950,
+        "deductible": 900
+      },
+      {
+        "id": "CV-013",
+        "policy_id": "PL-005",
+        "kind": "theft",
+        "limit": 89100,
+        "deductible": 800
+      },
+      {
+        "id": "CV-014",
+        "policy_id": "PL-005",
+        "kind": "liability",
+        "limit": 27000,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-015",
+        "policy_id": "PL-005",
+        "kind": "glass",
+        "limit": 22900,
+        "deductible": 750
+      },
+      {
+        "id": "CV-016",
+        "policy_id": "PL-005",
+        "kind": "collision",
+        "limit": 6050,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-017",
+        "policy_id": "PL-006",
+        "kind": "salvage",
+        "limit": 87550,
+        "deductible": 800
+      },
+      {
+        "id": "CV-018",
+        "policy_id": "PL-006",
+        "kind": "liability",
+        "limit": 39300,
+        "deductible": 1400
+      },
+      {
+        "id": "CV-019",
+        "policy_id": "PL-007",
+        "kind": "theft",
+        "limit": 24000,
+        "deductible": 400
+      },
+      {
+        "id": "CV-020",
+        "policy_id": "PL-007",
+        "kind": "liability",
+        "limit": 44500,
+        "deductible": 900
+      },
+      {
+        "id": "CV-021",
+        "policy_id": "PL-008",
+        "kind": "hull",
+        "limit": 43500,
+        "deductible": 850
+      },
+      {
+        "id": "CV-022",
+        "policy_id": "PL-008",
+        "kind": "salvage",
+        "limit": 73850,
+        "deductible": 300
+      },
+      {
+        "id": "CV-023",
+        "policy_id": "PL-009",
+        "kind": "theft",
+        "limit": 47550,
+        "deductible": 150
+      },
+      {
+        "id": "CV-024",
+        "policy_id": "PL-009",
+        "kind": "liability",
+        "limit": 15450,
+        "deductible": 250
+      },
+      {
+        "id": "CV-025",
+        "policy_id": "PL-009",
+        "kind": "flood",
+        "limit": 24500,
+        "deductible": 650
+      },
+      {
+        "id": "CV-026",
+        "policy_id": "PL-009",
+        "kind": "fire",
+        "limit": 18450,
+        "deductible": 950
+      },
+      {
+        "id": "CV-027",
+        "policy_id": "PL-010",
+        "kind": "collision",
+        "limit": 44750,
+        "deductible": 400
+      },
+      {
+        "id": "CV-028",
+        "policy_id": "PL-010",
+        "kind": "glass",
+        "limit": 87300,
+        "deductible": 450
+      },
+      {
+        "id": "CV-029",
+        "policy_id": "PL-010",
+        "kind": "theft",
+        "limit": 7900,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-030",
+        "policy_id": "PL-011",
+        "kind": "flood",
+        "limit": 49000,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-031",
+        "policy_id": "PL-011",
+        "kind": "fire",
+        "limit": 5250,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-032",
+        "policy_id": "PL-012",
+        "kind": "hull",
+        "limit": 17350,
+        "deductible": 800
+      },
+      {
+        "id": "CV-033",
+        "policy_id": "PL-012",
+        "kind": "liability",
+        "limit": 23250,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-034",
+        "policy_id": "PL-013",
+        "kind": "collision",
+        "limit": 62950,
+        "deductible": 950
+      },
+      {
+        "id": "CV-035",
+        "policy_id": "PL-013",
+        "kind": "glass",
+        "limit": 62650,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-036",
+        "policy_id": "PL-013",
+        "kind": "theft",
+        "limit": 43900,
+        "deductible": 850
+      },
+      {
+        "id": "CV-037",
+        "policy_id": "PL-013",
+        "kind": "liability",
+        "limit": 79600,
+        "deductible": 500
+      },
+      {
+        "id": "CV-038",
+        "policy_id": "PL-014",
+        "kind": "hull",
+        "limit": 73750,
+        "deductible": 100
+      },
+      {
+        "id": "CV-039",
+        "policy_id": "PL-014",
+        "kind": "salvage",
+        "limit": 77150,
+        "deductible": 1100
+      },
+      {
+        "id": "CV-040",
+        "policy_id": "PL-014",
+        "kind": "liability",
+        "limit": 67200,
+        "deductible": 950
+      },
+      {
+        "id": "CV-041",
+        "policy_id": "PL-015",
+        "kind": "collision",
+        "limit": 61000,
+        "deductible": 350
+      },
+      {
+        "id": "CV-042",
+        "policy_id": "PL-015",
+        "kind": "theft",
+        "limit": 23450,
+        "deductible": 600
+      },
+      {
+        "id": "CV-043",
+        "policy_id": "PL-015",
+        "kind": "glass",
+        "limit": 87900,
+        "deductible": 800
+      },
+      {
+        "id": "CV-044",
+        "policy_id": "PL-015",
+        "kind": "liability",
+        "limit": 51250,
+        "deductible": 350
+      },
+      {
+        "id": "CV-045",
+        "policy_id": "PL-016",
+        "kind": "theft",
+        "limit": 41750,
+        "deductible": 200
+      },
+      {
+        "id": "CV-046",
+        "policy_id": "PL-016",
+        "kind": "liability",
+        "limit": 69700,
+        "deductible": 150
+      },
+      {
+        "id": "CV-047",
+        "policy_id": "PL-017",
+        "kind": "liability",
+        "limit": 78600,
+        "deductible": 150
+      },
+      {
+        "id": "CV-048",
+        "policy_id": "PL-017",
+        "kind": "theft",
+        "limit": 61700,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-049",
+        "policy_id": "PL-018",
+        "kind": "liability",
+        "limit": 85050,
+        "deductible": 350
+      },
+      {
+        "id": "CV-050",
+        "policy_id": "PL-018",
+        "kind": "theft",
+        "limit": 75550,
+        "deductible": 850
+      },
+      {
+        "id": "CV-051",
+        "policy_id": "PL-018",
+        "kind": "collision",
+        "limit": 64750,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-052",
+        "policy_id": "PL-018",
+        "kind": "glass",
+        "limit": 23300,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-053",
+        "policy_id": "PL-019",
+        "kind": "flood",
+        "limit": 56100,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-054",
+        "policy_id": "PL-019",
+        "kind": "liability",
+        "limit": 10100,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-055",
+        "policy_id": "PL-020",
+        "kind": "theft",
+        "limit": 54850,
+        "deductible": 1400
+      },
+      {
+        "id": "CV-056",
+        "policy_id": "PL-020",
+        "kind": "glass",
+        "limit": 82350,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-057",
+        "policy_id": "PL-021",
+        "kind": "collision",
+        "limit": 85250,
+        "deductible": 850
+      },
+      {
+        "id": "CV-058",
+        "policy_id": "PL-021",
+        "kind": "theft",
+        "limit": 14650,
+        "deductible": 850
+      },
+      {
+        "id": "CV-059",
+        "policy_id": "PL-021",
+        "kind": "liability",
+        "limit": 18700,
+        "deductible": 950
+      },
+      {
+        "id": "CV-060",
+        "policy_id": "PL-021",
+        "kind": "glass",
+        "limit": 13950,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-061",
+        "policy_id": "PL-022",
+        "kind": "theft",
+        "limit": 56600,
+        "deductible": 650
+      },
+      {
+        "id": "CV-062",
+        "policy_id": "PL-022",
+        "kind": "liability",
+        "limit": 8200,
+        "deductible": 750
+      },
+      {
+        "id": "CV-063",
+        "policy_id": "PL-023",
+        "kind": "salvage",
+        "limit": 60700,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-064",
+        "policy_id": "PL-023",
+        "kind": "hull",
+        "limit": 74400,
+        "deductible": 850
+      },
+      {
+        "id": "CV-065",
+        "policy_id": "PL-024",
+        "kind": "liability",
+        "limit": 67800,
+        "deductible": 1400
+      },
+      {
+        "id": "CV-066",
+        "policy_id": "PL-024",
+        "kind": "hull",
+        "limit": 88200,
+        "deductible": 250
+      },
+      {
+        "id": "CV-067",
+        "policy_id": "PL-025",
+        "kind": "liability",
+        "limit": 86300,
+        "deductible": 500
+      },
+      {
+        "id": "CV-068",
+        "policy_id": "PL-025",
+        "kind": "hull",
+        "limit": 35300,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-069",
+        "policy_id": "PL-026",
+        "kind": "collision",
+        "limit": 50100,
+        "deductible": 400
+      },
+      {
+        "id": "CV-070",
+        "policy_id": "PL-026",
+        "kind": "glass",
+        "limit": 74800,
+        "deductible": 100
+      },
+      {
+        "id": "CV-071",
+        "policy_id": "PL-026",
+        "kind": "theft",
+        "limit": 41850,
+        "deductible": 600
+      },
+      {
+        "id": "CV-072",
+        "policy_id": "PL-026",
+        "kind": "liability",
+        "limit": 73100,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-073",
+        "policy_id": "PL-027",
+        "kind": "liability",
+        "limit": 74150,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-074",
+        "policy_id": "PL-027",
+        "kind": "salvage",
+        "limit": 87900,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-075",
+        "policy_id": "PL-027",
+        "kind": "hull",
+        "limit": 82400,
+        "deductible": 750
+      },
+      {
+        "id": "CV-076",
+        "policy_id": "PL-028",
+        "kind": "glass",
+        "limit": 41900,
+        "deductible": 400
+      },
+      {
+        "id": "CV-077",
+        "policy_id": "PL-028",
+        "kind": "liability",
+        "limit": 38650,
+        "deductible": 850
+      },
+      {
+        "id": "CV-078",
+        "policy_id": "PL-029",
+        "kind": "flood",
+        "limit": 73350,
+        "deductible": 700
+      },
+      {
+        "id": "CV-079",
+        "policy_id": "PL-029",
+        "kind": "liability",
+        "limit": 7650,
+        "deductible": 1350
+      },
+      {
+        "id": "CV-080",
+        "policy_id": "PL-029",
+        "kind": "theft",
+        "limit": 5000,
+        "deductible": 750
+      },
+      {
+        "id": "CV-081",
+        "policy_id": "PL-030",
+        "kind": "flood",
+        "limit": 46150,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-082",
+        "policy_id": "PL-030",
+        "kind": "fire",
+        "limit": 62050,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-083",
+        "policy_id": "PL-031",
+        "kind": "collision",
+        "limit": 74400,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-084",
+        "policy_id": "PL-031",
+        "kind": "liability",
+        "limit": 85350,
+        "deductible": 550
+      },
+      {
+        "id": "CV-085",
+        "policy_id": "PL-031",
+        "kind": "glass",
+        "limit": 8700,
+        "deductible": 500
+      },
+      {
+        "id": "CV-086",
+        "policy_id": "PL-031",
+        "kind": "theft",
+        "limit": 55950,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-087",
+        "policy_id": "PL-032",
+        "kind": "flood",
+        "limit": 63400,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-088",
+        "policy_id": "PL-032",
+        "kind": "liability",
+        "limit": 17900,
+        "deductible": 700
+      },
+      {
+        "id": "CV-089",
+        "policy_id": "PL-033",
+        "kind": "liability",
+        "limit": 73700,
+        "deductible": 800
+      },
+      {
+        "id": "CV-090",
+        "policy_id": "PL-033",
+        "kind": "collision",
+        "limit": 9050,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-091",
+        "policy_id": "PL-033",
+        "kind": "glass",
+        "limit": 23450,
+        "deductible": 200
+      },
+      {
+        "id": "CV-092",
+        "policy_id": "PL-034",
+        "kind": "theft",
+        "limit": 64700,
+        "deductible": 800
+      },
+      {
+        "id": "CV-093",
+        "policy_id": "PL-034",
+        "kind": "liability",
+        "limit": 11100,
+        "deductible": 300
+      },
+      {
+        "id": "CV-094",
+        "policy_id": "PL-034",
+        "kind": "flood",
+        "limit": 73700,
+        "deductible": 700
+      },
+      {
+        "id": "CV-095",
+        "policy_id": "PL-034",
+        "kind": "fire",
+        "limit": 65600,
+        "deductible": 500
+      },
+      {
+        "id": "CV-096",
+        "policy_id": "PL-035",
+        "kind": "hull",
+        "limit": 26850,
+        "deductible": 400
+      },
+      {
+        "id": "CV-097",
+        "policy_id": "PL-035",
+        "kind": "liability",
+        "limit": 46200,
+        "deductible": 250
+      },
+      {
+        "id": "CV-098",
+        "policy_id": "PL-036",
+        "kind": "collision",
+        "limit": 70550,
+        "deductible": 850
+      },
+      {
+        "id": "CV-099",
+        "policy_id": "PL-036",
+        "kind": "theft",
+        "limit": 27400,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-100",
+        "policy_id": "PL-036",
+        "kind": "liability",
+        "limit": 36300,
+        "deductible": 400
+      },
+      {
+        "id": "CV-101",
+        "policy_id": "PL-036",
+        "kind": "glass",
+        "limit": 89650,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-102",
+        "policy_id": "PL-037",
+        "kind": "hull",
+        "limit": 23200,
+        "deductible": 550
+      },
+      {
+        "id": "CV-103",
+        "policy_id": "PL-037",
+        "kind": "liability",
+        "limit": 20300,
+        "deductible": 350
+      },
+      {
+        "id": "CV-104",
+        "policy_id": "PL-038",
+        "kind": "fire",
+        "limit": 37650,
+        "deductible": 500
+      },
+      {
+        "id": "CV-105",
+        "policy_id": "PL-038",
+        "kind": "liability",
+        "limit": 47650,
+        "deductible": 400
+      },
+      {
+        "id": "CV-106",
+        "policy_id": "PL-039",
+        "kind": "liability",
+        "limit": 86850,
+        "deductible": 1400
+      },
+      {
+        "id": "CV-107",
+        "policy_id": "PL-039",
+        "kind": "fire",
+        "limit": 63500,
+        "deductible": 400
+      },
+      {
+        "id": "CV-108",
+        "policy_id": "PL-040",
+        "kind": "liability",
+        "limit": 38400,
+        "deductible": 800
+      },
+      {
+        "id": "CV-109",
+        "policy_id": "PL-040",
+        "kind": "theft",
+        "limit": 7150,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-110",
+        "policy_id": "PL-041",
+        "kind": "collision",
+        "limit": 10900,
+        "deductible": 850
+      },
+      {
+        "id": "CV-111",
+        "policy_id": "PL-041",
+        "kind": "theft",
+        "limit": 5850,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-112",
+        "policy_id": "PL-042",
+        "kind": "liability",
+        "limit": 42400,
+        "deductible": 100
+      },
+      {
+        "id": "CV-113",
+        "policy_id": "PL-042",
+        "kind": "salvage",
+        "limit": 21500,
+        "deductible": 650
+      },
+      {
+        "id": "CV-114",
+        "policy_id": "PL-043",
+        "kind": "salvage",
+        "limit": 63200,
+        "deductible": 950
+      },
+      {
+        "id": "CV-115",
+        "policy_id": "PL-043",
+        "kind": "liability",
+        "limit": 49650,
+        "deductible": 250
+      },
+      {
+        "id": "CV-116",
+        "policy_id": "PL-044",
+        "kind": "flood",
+        "limit": 39450,
+        "deductible": 100
+      },
+      {
+        "id": "CV-117",
+        "policy_id": "PL-044",
+        "kind": "theft",
+        "limit": 88800,
+        "deductible": 200
+      },
+      {
+        "id": "CV-118",
+        "policy_id": "PL-044",
+        "kind": "liability",
+        "limit": 8150,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-119",
+        "policy_id": "PL-045",
+        "kind": "theft",
+        "limit": 78250,
+        "deductible": 450
+      },
+      {
+        "id": "CV-120",
+        "policy_id": "PL-045",
+        "kind": "liability",
+        "limit": 55100,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-121",
+        "policy_id": "PL-046",
+        "kind": "hull",
+        "limit": 39300,
+        "deductible": 1350
+      },
+      {
+        "id": "CV-122",
+        "policy_id": "PL-046",
+        "kind": "liability",
+        "limit": 22350,
+        "deductible": 850
+      },
+      {
+        "id": "CV-123",
+        "policy_id": "PL-046",
+        "kind": "salvage",
+        "limit": 6250,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-124",
+        "policy_id": "PL-047",
+        "kind": "liability",
+        "limit": 39000,
+        "deductible": 950
+      },
+      {
+        "id": "CV-125",
+        "policy_id": "PL-047",
+        "kind": "collision",
+        "limit": 47300,
+        "deductible": 150
+      },
+      {
+        "id": "CV-126",
+        "policy_id": "PL-047",
+        "kind": "theft",
+        "limit": 75550,
+        "deductible": 400
+      },
+      {
+        "id": "CV-127",
+        "policy_id": "PL-047",
+        "kind": "glass",
+        "limit": 84300,
+        "deductible": 100
+      },
+      {
+        "id": "CV-128",
+        "policy_id": "PL-048",
+        "kind": "flood",
+        "limit": 9550,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-129",
+        "policy_id": "PL-048",
+        "kind": "theft",
+        "limit": 27850,
+        "deductible": 900
+      },
+      {
+        "id": "CV-130",
+        "policy_id": "PL-048",
+        "kind": "fire",
+        "limit": 28050,
+        "deductible": 300
+      },
+      {
+        "id": "CV-131",
+        "policy_id": "PL-048",
+        "kind": "liability",
+        "limit": 30800,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-132",
+        "policy_id": "PL-049",
+        "kind": "fire",
+        "limit": 56700,
+        "deductible": 300
+      },
+      {
+        "id": "CV-133",
+        "policy_id": "PL-049",
+        "kind": "liability",
+        "limit": 55500,
+        "deductible": 150
+      },
+      {
+        "id": "CV-134",
+        "policy_id": "PL-049",
+        "kind": "flood",
+        "limit": 10550,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-135",
+        "policy_id": "PL-049",
+        "kind": "theft",
+        "limit": 53750,
+        "deductible": 100
+      },
+      {
+        "id": "CV-136",
+        "policy_id": "PL-050",
+        "kind": "salvage",
+        "limit": 64200,
+        "deductible": 550
+      },
+      {
+        "id": "CV-137",
+        "policy_id": "PL-050",
+        "kind": "hull",
+        "limit": 87000,
+        "deductible": 200
+      },
+      {
+        "id": "CV-138",
+        "policy_id": "PL-051",
+        "kind": "salvage",
+        "limit": 16650,
+        "deductible": 400
+      },
+      {
+        "id": "CV-139",
+        "policy_id": "PL-051",
+        "kind": "liability",
+        "limit": 77750,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-140",
+        "policy_id": "PL-051",
+        "kind": "hull",
+        "limit": 62600,
+        "deductible": 600
+      },
+      {
+        "id": "CV-141",
+        "policy_id": "PL-052",
+        "kind": "theft",
+        "limit": 83700,
+        "deductible": 650
+      },
+      {
+        "id": "CV-142",
+        "policy_id": "PL-052",
+        "kind": "glass",
+        "limit": 67300,
+        "deductible": 550
+      },
+      {
+        "id": "CV-143",
+        "policy_id": "PL-052",
+        "kind": "liability",
+        "limit": 84000,
+        "deductible": 950
+      },
+      {
+        "id": "CV-144",
+        "policy_id": "PL-052",
+        "kind": "collision",
+        "limit": 12700,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-145",
+        "policy_id": "PL-053",
+        "kind": "liability",
+        "limit": 84850,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-146",
+        "policy_id": "PL-053",
+        "kind": "theft",
+        "limit": 69500,
+        "deductible": 350
+      },
+      {
+        "id": "CV-147",
+        "policy_id": "PL-053",
+        "kind": "fire",
+        "limit": 12950,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-148",
+        "policy_id": "PL-054",
+        "kind": "theft",
+        "limit": 86600,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-149",
+        "policy_id": "PL-054",
+        "kind": "glass",
+        "limit": 35200,
+        "deductible": 500
+      },
+      {
+        "id": "CV-150",
+        "policy_id": "PL-054",
+        "kind": "liability",
+        "limit": 34050,
+        "deductible": 500
+      },
+      {
+        "id": "CV-151",
+        "policy_id": "PL-054",
+        "kind": "collision",
+        "limit": 73900,
+        "deductible": 350
+      },
+      {
+        "id": "CV-152",
+        "policy_id": "PL-055",
+        "kind": "theft",
+        "limit": 59450,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-153",
+        "policy_id": "PL-055",
+        "kind": "flood",
+        "limit": 81450,
+        "deductible": 250
+      },
+      {
+        "id": "CV-154",
+        "policy_id": "PL-056",
+        "kind": "liability",
+        "limit": 27850,
+        "deductible": 650
+      },
+      {
+        "id": "CV-155",
+        "policy_id": "PL-056",
+        "kind": "flood",
+        "limit": 54150,
+        "deductible": 450
+      },
+      {
+        "id": "CV-156",
+        "policy_id": "PL-056",
+        "kind": "theft",
+        "limit": 84000,
+        "deductible": 1000
+      },
+      {
+        "id": "CV-157",
+        "policy_id": "PL-056",
+        "kind": "fire",
+        "limit": 83200,
+        "deductible": 550
+      },
+      {
+        "id": "CV-158",
+        "policy_id": "PL-057",
+        "kind": "fire",
+        "limit": 77400,
+        "deductible": 950
+      },
+      {
+        "id": "CV-159",
+        "policy_id": "PL-057",
+        "kind": "theft",
+        "limit": 66900,
+        "deductible": 100
+      },
+      {
+        "id": "CV-160",
+        "policy_id": "PL-058",
+        "kind": "liability",
+        "limit": 67750,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-161",
+        "policy_id": "PL-058",
+        "kind": "theft",
+        "limit": 11600,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-162",
+        "policy_id": "PL-059",
+        "kind": "fire",
+        "limit": 66900,
+        "deductible": 1400
+      },
+      {
+        "id": "CV-163",
+        "policy_id": "PL-059",
+        "kind": "flood",
+        "limit": 33750,
+        "deductible": 200
+      },
+      {
+        "id": "CV-164",
+        "policy_id": "PL-059",
+        "kind": "liability",
+        "limit": 83800,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-165",
+        "policy_id": "PL-059",
+        "kind": "theft",
+        "limit": 7400,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-166",
+        "policy_id": "PL-060",
+        "kind": "liability",
+        "limit": 81350,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-167",
+        "policy_id": "PL-060",
+        "kind": "fire",
+        "limit": 36200,
+        "deductible": 400
+      },
+      {
+        "id": "CV-168",
+        "policy_id": "PL-060",
+        "kind": "flood",
+        "limit": 67350,
+        "deductible": 900
+      },
+      {
+        "id": "CV-169",
+        "policy_id": "PL-061",
+        "kind": "fire",
+        "limit": 78250,
+        "deductible": 950
+      },
+      {
+        "id": "CV-170",
+        "policy_id": "PL-061",
+        "kind": "theft",
+        "limit": 82250,
+        "deductible": 200
+      },
+      {
+        "id": "CV-171",
+        "policy_id": "PL-061",
+        "kind": "liability",
+        "limit": 37100,
+        "deductible": 350
+      },
+      {
+        "id": "CV-172",
+        "policy_id": "PL-061",
+        "kind": "flood",
+        "limit": 53350,
+        "deductible": 650
+      },
+      {
+        "id": "CV-173",
+        "policy_id": "PL-062",
+        "kind": "glass",
+        "limit": 48250,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-174",
+        "policy_id": "PL-062",
+        "kind": "collision",
+        "limit": 71800,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-175",
+        "policy_id": "PL-062",
+        "kind": "liability",
+        "limit": 71700,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-176",
+        "policy_id": "PL-062",
+        "kind": "theft",
+        "limit": 73700,
+        "deductible": 550
+      },
+      {
+        "id": "CV-177",
+        "policy_id": "PL-063",
+        "kind": "theft",
+        "limit": 80500,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-178",
+        "policy_id": "PL-063",
+        "kind": "fire",
+        "limit": 84500,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-179",
+        "policy_id": "PL-063",
+        "kind": "flood",
+        "limit": 50700,
+        "deductible": 1200
+      },
+      {
+        "id": "CV-180",
+        "policy_id": "PL-063",
+        "kind": "liability",
+        "limit": 20250,
+        "deductible": 850
+      },
+      {
+        "id": "CV-181",
+        "policy_id": "PL-064",
+        "kind": "liability",
+        "limit": 42350,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-182",
+        "policy_id": "PL-064",
+        "kind": "salvage",
+        "limit": 37000,
+        "deductible": 600
+      },
+      {
+        "id": "CV-183",
+        "policy_id": "PL-065",
+        "kind": "liability",
+        "limit": 6650,
+        "deductible": 650
+      },
+      {
+        "id": "CV-184",
+        "policy_id": "PL-065",
+        "kind": "flood",
+        "limit": 85050,
+        "deductible": 950
+      },
+      {
+        "id": "CV-185",
+        "policy_id": "PL-066",
+        "kind": "theft",
+        "limit": 9400,
+        "deductible": 550
+      },
+      {
+        "id": "CV-186",
+        "policy_id": "PL-066",
+        "kind": "glass",
+        "limit": 62650,
+        "deductible": 900
+      },
+      {
+        "id": "CV-187",
+        "policy_id": "PL-066",
+        "kind": "liability",
+        "limit": 46050,
+        "deductible": 750
+      },
+      {
+        "id": "CV-188",
+        "policy_id": "PL-067",
+        "kind": "glass",
+        "limit": 48400,
+        "deductible": 950
+      },
+      {
+        "id": "CV-189",
+        "policy_id": "PL-067",
+        "kind": "liability",
+        "limit": 75400,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-190",
+        "policy_id": "PL-067",
+        "kind": "collision",
+        "limit": 45350,
+        "deductible": 600
+      },
+      {
+        "id": "CV-191",
+        "policy_id": "PL-067",
+        "kind": "theft",
+        "limit": 49100,
+        "deductible": 1400
+      },
+      {
+        "id": "CV-192",
+        "policy_id": "PL-068",
+        "kind": "liability",
+        "limit": 37400,
+        "deductible": 450
+      },
+      {
+        "id": "CV-193",
+        "policy_id": "PL-068",
+        "kind": "theft",
+        "limit": 36350,
+        "deductible": 1350
+      },
+      {
+        "id": "CV-194",
+        "policy_id": "PL-069",
+        "kind": "liability",
+        "limit": 67450,
+        "deductible": 600
+      },
+      {
+        "id": "CV-195",
+        "policy_id": "PL-069",
+        "kind": "flood",
+        "limit": 16200,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-196",
+        "policy_id": "PL-069",
+        "kind": "fire",
+        "limit": 42050,
+        "deductible": 700
+      },
+      {
+        "id": "CV-197",
+        "policy_id": "PL-069",
+        "kind": "theft",
+        "limit": 43700,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-198",
+        "policy_id": "PL-070",
+        "kind": "fire",
+        "limit": 41650,
+        "deductible": 1250
+      },
+      {
+        "id": "CV-199",
+        "policy_id": "PL-070",
+        "kind": "theft",
+        "limit": 58750,
+        "deductible": 1150
+      },
+      {
+        "id": "CV-200",
+        "policy_id": "PL-070",
+        "kind": "liability",
+        "limit": 88850,
+        "deductible": 700
+      },
+      {
+        "id": "CV-201",
+        "policy_id": "PL-070",
+        "kind": "flood",
+        "limit": 51350,
+        "deductible": 450
+      },
+      {
+        "id": "CV-202",
+        "policy_id": "PL-071",
+        "kind": "liability",
+        "limit": 88550,
+        "deductible": 350
+      },
+      {
+        "id": "CV-203",
+        "policy_id": "PL-071",
+        "kind": "hull",
+        "limit": 60950,
+        "deductible": 750
+      },
+      {
+        "id": "CV-204",
+        "policy_id": "PL-072",
+        "kind": "glass",
+        "limit": 88650,
+        "deductible": 600
+      },
+      {
+        "id": "CV-205",
+        "policy_id": "PL-072",
+        "kind": "liability",
+        "limit": 43800,
+        "deductible": 1450
+      },
+      {
+        "id": "CV-206",
+        "policy_id": "PL-072",
+        "kind": "collision",
+        "limit": 6150,
+        "deductible": 750
+      },
+      {
+        "id": "CV-207",
+        "policy_id": "PL-072",
+        "kind": "theft",
+        "limit": 32350,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-208",
+        "policy_id": "PL-073",
+        "kind": "liability",
+        "limit": 59950,
+        "deductible": 650
+      },
+      {
+        "id": "CV-209",
+        "policy_id": "PL-073",
+        "kind": "salvage",
+        "limit": 70050,
+        "deductible": 850
+      },
+      {
+        "id": "CV-210",
+        "policy_id": "PL-073",
+        "kind": "hull",
+        "limit": 14800,
+        "deductible": 1050
+      },
+      {
+        "id": "CV-211",
+        "policy_id": "PL-074",
+        "kind": "flood",
+        "limit": 64450,
+        "deductible": 750
+      },
+      {
+        "id": "CV-212",
+        "policy_id": "PL-074",
+        "kind": "theft",
+        "limit": 63850,
+        "deductible": 400
+      },
+      {
+        "id": "CV-213",
+        "policy_id": "PL-075",
+        "kind": "theft",
+        "limit": 30900,
+        "deductible": 1100
+      },
+      {
+        "id": "CV-214",
+        "policy_id": "PL-075",
+        "kind": "liability",
+        "limit": 60050,
+        "deductible": 1300
+      },
+      {
+        "id": "CV-215",
+        "policy_id": "PL-075",
+        "kind": "collision",
+        "limit": 44950,
+        "deductible": 550
+      },
+      {
+        "id": "CV-216",
+        "policy_id": "PL-075",
+        "kind": "glass",
+        "limit": 36800,
+        "deductible": 200
+      }
+    ],
+    "claims": [
+      {
+        "id": "CL-001",
+        "number": "C-31000",
+        "policy_id": "PL-062",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-05",
+        "provider_id": "PR-01",
+        "status": "denied",
+        "amount_claimed": 14500,
+        "year": 2024,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-002",
+        "number": "C-31001",
+        "policy_id": "PL-029",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 28200,
+        "year": 2026,
+        "cause": "break-in"
+      },
+      {
+        "id": "CL-003",
+        "number": "C-31002",
+        "policy_id": "PL-052",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-08",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 33100,
+        "year": 2023,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-004",
+        "number": "C-31003",
+        "policy_id": "PL-055",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-06",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 37350,
+        "year": 2025,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-005",
+        "number": "C-31004",
+        "policy_id": "PL-034",
+        "coverage_kind": "fire",
+        "adjuster_id": "AJ-06",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 5950,
+        "year": 2023,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-006",
+        "number": "C-31005",
+        "policy_id": "PL-074",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-08",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 24350,
+        "year": 2023,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-007",
+        "number": "C-31006",
+        "policy_id": "PL-062",
+        "coverage_kind": "collision",
+        "adjuster_id": "AJ-06",
+        "provider_id": "PR-09",
+        "status": "denied",
+        "amount_claimed": 21550,
+        "year": 2025,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-008",
+        "number": "C-31007",
+        "policy_id": "PL-028",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-04",
+        "provider_id": "PR-11",
+        "status": "settled",
+        "amount_claimed": 5000,
+        "year": 2026,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-009",
+        "number": "C-31008",
+        "policy_id": "PL-047",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-03",
+        "provider_id": "PR-04",
+        "status": "approved",
+        "amount_claimed": 34950,
+        "year": 2025,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-010",
+        "number": "C-31009",
+        "policy_id": "PL-003",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 39400,
+        "year": 2024,
+        "cause": "lightning strike"
+      },
+      {
+        "id": "CL-011",
+        "number": "C-31010",
+        "policy_id": "PL-025",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 27250,
+        "year": 2024,
+        "cause": "collision at mooring"
+      },
+      {
+        "id": "CL-012",
+        "number": "C-31011",
+        "policy_id": "PL-068",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 24200,
+        "year": 2023,
+        "cause": "burst pipe"
+      },
+      {
+        "id": "CL-013",
+        "number": "C-31012",
+        "policy_id": "PL-037",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-08",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 27600,
+        "year": 2023,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-014",
+        "number": "C-31013",
+        "policy_id": "PL-053",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-03",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 31150,
+        "year": 2026,
+        "cause": "lightning strike"
+      },
+      {
+        "id": "CL-015",
+        "number": "C-31014",
+        "policy_id": "PL-015",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-05",
+        "provider_id": "PR-08",
+        "status": "denied",
+        "amount_claimed": 23850,
+        "year": 2024,
+        "cause": "rear-end collision"
+      },
+      {
+        "id": "CL-016",
+        "number": "C-31015",
+        "policy_id": "PL-007",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-09",
+        "provider_id": "PR-08",
+        "status": "denied",
+        "amount_claimed": 38300,
+        "year": 2024,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-017",
+        "number": "C-31016",
+        "policy_id": "PL-026",
+        "coverage_kind": "collision",
+        "adjuster_id": "AJ-02",
+        "provider_id": "PR-06",
+        "status": "in_review",
+        "amount_claimed": 32400,
+        "year": 2023,
+        "cause": "hail damage"
+      },
+      {
+        "id": "CL-018",
+        "number": "C-31017",
+        "policy_id": "PL-011",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-05",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 6600,
+        "year": 2025,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-019",
+        "number": "C-31018",
+        "policy_id": "PL-002",
+        "coverage_kind": "salvage",
+        "adjuster_id": "AJ-02",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 5750,
+        "year": 2025,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-020",
+        "number": "C-31019",
+        "policy_id": "PL-024",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 33550,
+        "year": 2025,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-021",
+        "number": "C-31020",
+        "policy_id": "PL-043",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 10850,
+        "year": 2023,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-022",
+        "number": "C-31021",
+        "policy_id": "PL-051",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-05",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 23600,
+        "year": 2024,
+        "cause": "collision at mooring"
+      },
+      {
+        "id": "CL-023",
+        "number": "C-31022",
+        "policy_id": "PL-047",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-03",
+        "provider_id": "PR-02",
+        "status": "denied",
+        "amount_claimed": 25600,
+        "year": 2023,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-024",
+        "number": "C-31023",
+        "policy_id": "PL-025",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 24600,
+        "year": 2025,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-025",
+        "number": "C-31024",
+        "policy_id": "PL-001",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-05",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 16250,
+        "year": 2025,
+        "cause": "lightning strike"
+      },
+      {
+        "id": "CL-026",
+        "number": "C-31025",
+        "policy_id": "PL-027",
+        "coverage_kind": "salvage",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 4450,
+        "year": 2023,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-027",
+        "number": "C-31026",
+        "policy_id": "PL-002",
+        "coverage_kind": "salvage",
+        "adjuster_id": "AJ-03",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 17150,
+        "year": 2026,
+        "cause": "collision at mooring"
+      },
+      {
+        "id": "CL-028",
+        "number": "C-31027",
+        "policy_id": "PL-046",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 30850,
+        "year": 2023,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-029",
+        "number": "C-31028",
+        "policy_id": "PL-032",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-07",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 37250,
+        "year": 2026,
+        "cause": "lightning strike"
+      },
+      {
+        "id": "CL-030",
+        "number": "C-31029",
+        "policy_id": "PL-012",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-04",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 4450,
+        "year": 2026,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-031",
+        "number": "C-31030",
+        "policy_id": "PL-049",
+        "coverage_kind": "fire",
+        "adjuster_id": "AJ-04",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 6150,
+        "year": 2024,
+        "cause": "break-in"
+      },
+      {
+        "id": "CL-032",
+        "number": "C-31031",
+        "policy_id": "PL-044",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-06",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 36100,
+        "year": 2023,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-033",
+        "number": "C-31032",
+        "policy_id": "PL-053",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 38700,
+        "year": 2025,
+        "cause": "burst pipe"
+      },
+      {
+        "id": "CL-034",
+        "number": "C-31033",
+        "policy_id": "PL-061",
+        "coverage_kind": "fire",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 36100,
+        "year": 2026,
+        "cause": "break-in"
+      },
+      {
+        "id": "CL-035",
+        "number": "C-31034",
+        "policy_id": "PL-058",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-07",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 4350,
+        "year": 2023,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-036",
+        "number": "C-31035",
+        "policy_id": "PL-037",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 22550,
+        "year": 2026,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-037",
+        "number": "C-31036",
+        "policy_id": "PL-045",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-08",
+        "provider_id": "PR-02",
+        "status": "settled",
+        "amount_claimed": 29200,
+        "year": 2025,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-038",
+        "number": "C-31037",
+        "policy_id": "PL-006",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 4400,
+        "year": 2024,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-039",
+        "number": "C-31038",
+        "policy_id": "PL-071",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-05",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 6400,
+        "year": 2023,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-040",
+        "number": "C-31039",
+        "policy_id": "PL-035",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 9900,
+        "year": 2024,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-041",
+        "number": "C-31040",
+        "policy_id": "PL-034",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-04",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 33750,
+        "year": 2024,
+        "cause": "lightning strike"
+      },
+      {
+        "id": "CL-042",
+        "number": "C-31041",
+        "policy_id": "PL-061",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 26000,
+        "year": 2023,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-043",
+        "number": "C-31042",
+        "policy_id": "PL-008",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-04",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 8500,
+        "year": 2024,
+        "cause": "collision at mooring"
+      },
+      {
+        "id": "CL-044",
+        "number": "C-31043",
+        "policy_id": "PL-028",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-05",
+        "provider_id": "PR-07",
+        "status": "denied",
+        "amount_claimed": 19450,
+        "year": 2024,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-045",
+        "number": "C-31044",
+        "policy_id": "PL-054",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-06",
+        "provider_id": "PR-01",
+        "status": "settled",
+        "amount_claimed": 37900,
+        "year": 2026,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-046",
+        "number": "C-31045",
+        "policy_id": "PL-048",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 2950,
+        "year": 2026,
+        "cause": "burst pipe"
+      },
+      {
+        "id": "CL-047",
+        "number": "C-31046",
+        "policy_id": "PL-021",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-02",
+        "provider_id": "PR-11",
+        "status": "approved",
+        "amount_claimed": 1800,
+        "year": 2026,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-048",
+        "number": "C-31047",
+        "policy_id": "PL-047",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-06",
+        "provider_id": "PR-04",
+        "status": "approved",
+        "amount_claimed": 13300,
+        "year": 2024,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-049",
+        "number": "C-31048",
+        "policy_id": "PL-060",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 10950,
+        "year": 2025,
+        "cause": "lightning strike"
+      },
+      {
+        "id": "CL-050",
+        "number": "C-31049",
+        "policy_id": "PL-008",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-01",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 21600,
+        "year": 2025,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-051",
+        "number": "C-31050",
+        "policy_id": "PL-051",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 23050,
+        "year": 2025,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-052",
+        "number": "C-31051",
+        "policy_id": "PL-069",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-05",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 9750,
+        "year": 2025,
+        "cause": "burst pipe"
+      },
+      {
+        "id": "CL-053",
+        "number": "C-31052",
+        "policy_id": "PL-014",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-07",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 39800,
+        "year": 2025,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-054",
+        "number": "C-31053",
+        "policy_id": "PL-028",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-03",
+        "provider_id": "PR-03",
+        "status": "in_review",
+        "amount_claimed": 38250,
+        "year": 2023,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-055",
+        "number": "C-31054",
+        "policy_id": "PL-016",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-03",
+        "provider_id": "PR-09",
+        "status": "approved",
+        "amount_claimed": 25550,
+        "year": 2026,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-056",
+        "number": "C-31055",
+        "policy_id": "PL-022",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-03",
+        "provider_id": "PR-06",
+        "status": "settled",
+        "amount_claimed": 38200,
+        "year": 2024,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-057",
+        "number": "C-31056",
+        "policy_id": "PL-045",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-04",
+        "provider_id": "PR-12",
+        "status": "approved",
+        "amount_claimed": 10650,
+        "year": 2026,
+        "cause": "hail damage"
+      },
+      {
+        "id": "CL-058",
+        "number": "C-31057",
+        "policy_id": "PL-008",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-03",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 9950,
+        "year": 2026,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-059",
+        "number": "C-31058",
+        "policy_id": "PL-016",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-03",
+        "provider_id": "PR-04",
+        "status": "settled",
+        "amount_claimed": 11850,
+        "year": 2023,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-060",
+        "number": "C-31059",
+        "policy_id": "PL-065",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-08",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 39100,
+        "year": 2026,
+        "cause": "burst pipe"
+      },
+      {
+        "id": "CL-061",
+        "number": "C-31060",
+        "policy_id": "PL-006",
+        "coverage_kind": "salvage",
+        "adjuster_id": "AJ-02",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 33000,
+        "year": 2025,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-062",
+        "number": "C-31061",
+        "policy_id": "PL-075",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-01",
+        "provider_id": "PR-02",
+        "status": "in_review",
+        "amount_claimed": 32150,
+        "year": 2023,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-063",
+        "number": "C-31062",
+        "policy_id": "PL-008",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-02",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 14700,
+        "year": 2024,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-064",
+        "number": "C-31063",
+        "policy_id": "PL-050",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-04",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 26100,
+        "year": 2025,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-065",
+        "number": "C-31064",
+        "policy_id": "PL-002",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 13750,
+        "year": 2026,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-066",
+        "number": "C-31065",
+        "policy_id": "PL-018",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-04",
+        "provider_id": "PR-08",
+        "status": "denied",
+        "amount_claimed": 29000,
+        "year": 2023,
+        "cause": "hail damage"
+      },
+      {
+        "id": "CL-067",
+        "number": "C-31066",
+        "policy_id": "PL-009",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-08",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 24900,
+        "year": 2023,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-068",
+        "number": "C-31067",
+        "policy_id": "PL-019",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-05",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 12100,
+        "year": 2026,
+        "cause": "break-in"
+      },
+      {
+        "id": "CL-069",
+        "number": "C-31068",
+        "policy_id": "PL-016",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-02",
+        "provider_id": "PR-05",
+        "status": "denied",
+        "amount_claimed": 33050,
+        "year": 2025,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-070",
+        "number": "C-31069",
+        "policy_id": "PL-025",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-02",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 36300,
+        "year": 2023,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-071",
+        "number": "C-31070",
+        "policy_id": "PL-027",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-07",
+        "provider_id": null,
+        "status": "submitted",
+        "amount_claimed": 36350,
+        "year": 2023,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-072",
+        "number": "C-31071",
+        "policy_id": "PL-005",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-07",
+        "provider_id": "PR-02",
+        "status": "approved",
+        "amount_claimed": 20450,
+        "year": 2024,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-073",
+        "number": "C-31072",
+        "policy_id": "PL-044",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-02",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 31650,
+        "year": 2026,
+        "cause": "kitchen fire"
+      },
+      {
+        "id": "CL-074",
+        "number": "C-31073",
+        "policy_id": "PL-016",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 37450,
+        "year": 2024,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-075",
+        "number": "C-31074",
+        "policy_id": "PL-002",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-06",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 11650,
+        "year": 2025,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-076",
+        "number": "C-31075",
+        "policy_id": "PL-066",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-07",
+        "provider_id": "PR-03",
+        "status": "denied",
+        "amount_claimed": 15100,
+        "year": 2026,
+        "cause": "single-vehicle accident"
+      },
+      {
+        "id": "CL-077",
+        "number": "C-31076",
+        "policy_id": "PL-015",
+        "coverage_kind": "collision",
+        "adjuster_id": "AJ-08",
+        "provider_id": "PR-10",
+        "status": "in_review",
+        "amount_claimed": 10600,
+        "year": 2025,
+        "cause": "windscreen crack"
+      },
+      {
+        "id": "CL-078",
+        "number": "C-31077",
+        "policy_id": "PL-066",
+        "coverage_kind": "glass",
+        "adjuster_id": "AJ-08",
+        "provider_id": "PR-09",
+        "status": "approved",
+        "amount_claimed": 15350,
+        "year": 2023,
+        "cause": "rear-end collision"
+      },
+      {
+        "id": "CL-079",
+        "number": "C-31078",
+        "policy_id": "PL-006",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 2400,
+        "year": 2024,
+        "cause": "grounding"
+      },
+      {
+        "id": "CL-080",
+        "number": "C-31079",
+        "policy_id": "PL-042",
+        "coverage_kind": "salvage",
+        "adjuster_id": "AJ-09",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 34150,
+        "year": 2023,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-081",
+        "number": "C-31080",
+        "policy_id": "PL-022",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-07",
+        "provider_id": "PR-02",
+        "status": "approved",
+        "amount_claimed": 27150,
+        "year": 2025,
+        "cause": "rear-end collision"
+      },
+      {
+        "id": "CL-082",
+        "number": "C-31081",
+        "policy_id": "PL-012",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-04",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 37350,
+        "year": 2025,
+        "cause": "engine-room fire"
+      },
+      {
+        "id": "CL-083",
+        "number": "C-31082",
+        "policy_id": "PL-041",
+        "coverage_kind": "collision",
+        "adjuster_id": "AJ-09",
+        "provider_id": "PR-07",
+        "status": "settled",
+        "amount_claimed": 23250,
+        "year": 2024,
+        "cause": "rear-end collision"
+      },
+      {
+        "id": "CL-084",
+        "number": "C-31083",
+        "policy_id": "PL-060",
+        "coverage_kind": "flood",
+        "adjuster_id": "AJ-08",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 5200,
+        "year": 2026,
+        "cause": "break-in"
+      },
+      {
+        "id": "CL-085",
+        "number": "C-31084",
+        "policy_id": "PL-053",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-06",
+        "provider_id": null,
+        "status": "denied",
+        "amount_claimed": 23350,
+        "year": 2024,
+        "cause": "storm flooding"
+      },
+      {
+        "id": "CL-086",
+        "number": "C-31085",
+        "policy_id": "PL-018",
+        "coverage_kind": "collision",
+        "adjuster_id": "AJ-07",
+        "provider_id": "PR-05",
+        "status": "settled",
+        "amount_claimed": 30700,
+        "year": 2026,
+        "cause": "theft from vehicle"
+      },
+      {
+        "id": "CL-087",
+        "number": "C-31086",
+        "policy_id": "PL-025",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-02",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 35450,
+        "year": 2025,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-088",
+        "number": "C-31087",
+        "policy_id": "PL-051",
+        "coverage_kind": "hull",
+        "adjuster_id": "AJ-06",
+        "provider_id": null,
+        "status": "settled",
+        "amount_claimed": 15600,
+        "year": 2024,
+        "cause": "storm damage"
+      },
+      {
+        "id": "CL-089",
+        "number": "C-31088",
+        "policy_id": "PL-055",
+        "coverage_kind": "theft",
+        "adjuster_id": "AJ-07",
+        "provider_id": null,
+        "status": "in_review",
+        "amount_claimed": 28500,
+        "year": 2024,
+        "cause": "kitchen fire"
+      },
+      {
+        "id": "CL-090",
+        "number": "C-31089",
+        "policy_id": "PL-071",
+        "coverage_kind": "liability",
+        "adjuster_id": "AJ-10",
+        "provider_id": null,
+        "status": "approved",
+        "amount_claimed": 35700,
+        "year": 2025,
+        "cause": "engine-room fire"
+      }
+    ],
+    "payments": [
+      {
+        "id": "PM-001",
+        "claim_id": "CL-002",
+        "amount": 17778,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-002",
+        "claim_id": "CL-004",
+        "amount": 16436,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-003",
+        "claim_id": "CL-004",
+        "amount": 16436,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-004",
+        "claim_id": "CL-005",
+        "amount": 2511,
+        "year": 2023,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-005",
+        "claim_id": "CL-005",
+        "amount": 2512,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-006",
+        "claim_id": "CL-008",
+        "amount": 3739,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-007",
+        "claim_id": "CL-009",
+        "amount": 32472,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-008",
+        "claim_id": "CL-012",
+        "amount": 13227,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-009",
+        "claim_id": "CL-013",
+        "amount": 8923,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-010",
+        "claim_id": "CL-013",
+        "amount": 8924,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-011",
+        "claim_id": "CL-018",
+        "amount": 5917,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-012",
+        "claim_id": "CL-019",
+        "amount": 2698,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-013",
+        "claim_id": "CL-019",
+        "amount": 2698,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-014",
+        "claim_id": "CL-020",
+        "amount": 18717,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-015",
+        "claim_id": "CL-022",
+        "amount": 10003,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-016",
+        "claim_id": "CL-022",
+        "amount": 10004,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-017",
+        "claim_id": "CL-024",
+        "amount": 6222,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-018",
+        "claim_id": "CL-024",
+        "amount": 6222,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-019",
+        "claim_id": "CL-026",
+        "amount": 2732,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-020",
+        "claim_id": "CL-029",
+        "amount": 10667,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-021",
+        "claim_id": "CL-029",
+        "amount": 10668,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-022",
+        "claim_id": "CL-037",
+        "amount": 27619,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-023",
+        "claim_id": "CL-039",
+        "amount": 2193,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-024",
+        "claim_id": "CL-039",
+        "amount": 2194,
+        "year": 2023,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-025",
+        "claim_id": "CL-041",
+        "amount": 26784,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-026",
+        "claim_id": "CL-042",
+        "amount": 20559,
+        "year": 2023,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-027",
+        "claim_id": "CL-045",
+        "amount": 37147,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-028",
+        "claim_id": "CL-046",
+        "amount": 1823,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-029",
+        "claim_id": "CL-047",
+        "amount": 569,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-030",
+        "claim_id": "CL-047",
+        "amount": 570,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-031",
+        "claim_id": "CL-048",
+        "amount": 6276,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-032",
+        "claim_id": "CL-048",
+        "amount": 6276,
+        "year": 2024,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-033",
+        "claim_id": "CL-049",
+        "amount": 9381,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-034",
+        "claim_id": "CL-051",
+        "amount": 14821,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-035",
+        "claim_id": "CL-052",
+        "amount": 7256,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-036",
+        "claim_id": "CL-055",
+        "amount": 12199,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-037",
+        "claim_id": "CL-055",
+        "amount": 12199,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-038",
+        "claim_id": "CL-056",
+        "amount": 22448,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-039",
+        "claim_id": "CL-057",
+        "amount": 4509,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-040",
+        "claim_id": "CL-057",
+        "amount": 4510,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-041",
+        "claim_id": "CL-059",
+        "amount": 11353,
+        "year": 2023,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-042",
+        "claim_id": "CL-064",
+        "amount": 15000,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-043",
+        "claim_id": "CL-065",
+        "amount": 9387,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-044",
+        "claim_id": "CL-072",
+        "amount": 9095,
+        "year": 2024,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-045",
+        "claim_id": "CL-072",
+        "amount": 9096,
+        "year": 2024,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-046",
+        "claim_id": "CL-073",
+        "amount": 10818,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-047",
+        "claim_id": "CL-073",
+        "amount": 10818,
+        "year": 2026,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-048",
+        "claim_id": "CL-074",
+        "amount": 35696,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-049",
+        "claim_id": "CL-078",
+        "amount": 6927,
+        "year": 2023,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-050",
+        "claim_id": "CL-078",
+        "amount": 6928,
+        "year": 2023,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-051",
+        "claim_id": "CL-079",
+        "amount": 1303,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-052",
+        "claim_id": "CL-081",
+        "amount": 8036,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-053",
+        "claim_id": "CL-081",
+        "amount": 8037,
+        "year": 2025,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-054",
+        "claim_id": "CL-082",
+        "amount": 32919,
+        "year": 2025,
+        "method": "bank transfer"
+      },
+      {
+        "id": "PM-055",
+        "claim_id": "CL-083",
+        "amount": 19121,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-056",
+        "claim_id": "CL-084",
+        "amount": 3390,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-057",
+        "claim_id": "CL-086",
+        "amount": 24961,
+        "year": 2026,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-058",
+        "claim_id": "CL-088",
+        "amount": 8536,
+        "year": 2024,
+        "method": "cheque"
+      },
+      {
+        "id": "PM-059",
+        "claim_id": "CL-090",
+        "amount": 22594,
+        "year": 2025,
+        "method": "cheque"
+      }
+    ]
+  }
+}

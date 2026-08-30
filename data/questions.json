@@ -1,0 +1,322 @@
+[
+  {
+    "id": "L-01",
+    "band": "L",
+    "template": "claim-status",
+    "question": "What is the current status of claim C-31077?",
+    "answer": "approved",
+    "answer_type": "string"
+  },
+  {
+    "id": "L-02",
+    "band": "L",
+    "template": "claim-status",
+    "question": "What is the current status of claim C-31052?",
+    "answer": "denied",
+    "answer_type": "string"
+  },
+  {
+    "id": "L-03",
+    "band": "L",
+    "template": "claim-status",
+    "question": "What is the current status of claim C-31043?",
+    "answer": "denied",
+    "answer_type": "string"
+  },
+  {
+    "id": "L-04",
+    "band": "L",
+    "template": "claim-status",
+    "question": "What is the current status of claim C-31084?",
+    "answer": "denied",
+    "answer_type": "string"
+  },
+  {
+    "id": "L-05",
+    "band": "L",
+    "template": "policy-premium",
+    "question": "What is the annual premium of policy P-7009?",
+    "answer": 750,
+    "answer_type": "number"
+  },
+  {
+    "id": "L-06",
+    "band": "L",
+    "template": "policy-premium",
+    "question": "What is the annual premium of policy P-7006?",
+    "answer": 400,
+    "answer_type": "number"
+  },
+  {
+    "id": "L-07",
+    "band": "L",
+    "template": "policy-premium",
+    "question": "What is the annual premium of policy P-7008?",
+    "answer": 3000,
+    "answer_type": "number"
+  },
+  {
+    "id": "L-08",
+    "band": "L",
+    "template": "policy-premium",
+    "question": "What is the annual premium of policy P-7019?",
+    "answer": 550,
+    "answer_type": "number"
+  },
+  {
+    "id": "L-09",
+    "band": "L",
+    "template": "provider-specialty",
+    "question": "What is the specialty of the repair provider called Wrenfield Restoration?",
+    "answer": "glass",
+    "answer_type": "string"
+  },
+  {
+    "id": "L-10",
+    "band": "L",
+    "template": "provider-specialty",
+    "question": "What is the specialty of the repair provider called Cedarline Collision Works?",
+    "answer": "paint",
+    "answer_type": "string"
+  },
+  {
+    "id": "M-01",
+    "band": "M",
+    "template": "claim-adjuster",
+    "question": "Which adjuster assessed claim C-31004? Give the name.",
+    "answer": "Malin Oduya",
+    "answer_type": "string"
+  },
+  {
+    "id": "M-02",
+    "band": "M",
+    "template": "claim-adjuster",
+    "question": "Which adjuster assessed claim C-31008? Give the name.",
+    "answer": "Elsa Duval",
+    "answer_type": "string"
+  },
+  {
+    "id": "M-03",
+    "band": "M",
+    "template": "claim-adjuster",
+    "question": "Which adjuster assessed claim C-31076? Give the name.",
+    "answer": "Odile Voss",
+    "answer_type": "string"
+  },
+  {
+    "id": "M-04",
+    "band": "M",
+    "template": "claim-adjuster",
+    "question": "Which adjuster assessed claim C-31020? Give the name.",
+    "answer": "Casper Harmsen",
+    "answer_type": "string"
+  },
+  {
+    "id": "M-05",
+    "band": "M",
+    "template": "claim-paid-total",
+    "question": "What is the total amount paid out so far on claim C-31058?",
+    "answer": 11353,
+    "answer_type": "number"
+  },
+  {
+    "id": "M-06",
+    "band": "M",
+    "template": "claim-paid-total",
+    "question": "What is the total amount paid out so far on claim C-31018?",
+    "answer": 5396,
+    "answer_type": "number"
+  },
+  {
+    "id": "M-07",
+    "band": "M",
+    "template": "claim-paid-total",
+    "question": "What is the total amount paid out so far on claim C-31078?",
+    "answer": 1303,
+    "answer_type": "number"
+  },
+  {
+    "id": "M-08",
+    "band": "M",
+    "template": "claim-paid-total",
+    "question": "What is the total amount paid out so far on claim C-31040?",
+    "answer": 26784,
+    "answer_type": "number"
+  },
+  {
+    "id": "M-09",
+    "band": "M",
+    "template": "claim-repair-region",
+    "question": "In which region is the repair provider handling claim C-31056 located?",
+    "answer": "Veyland",
+    "answer_type": "string"
+  },
+  {
+    "id": "M-10",
+    "band": "M",
+    "template": "claim-repair-region",
+    "question": "In which region is the repair provider handling claim C-31015 located?",
+    "answer": "Amberfen",
+    "answer_type": "string"
+  },
+  {
+    "id": "H-01",
+    "band": "H",
+    "template": "holder-paid-total",
+    "question": "Across all claims filed against any policy held by Ivo Voss, what is the total amount that has been paid out?",
+    "answer": 14783,
+    "answer_type": "number"
+  },
+  {
+    "id": "H-02",
+    "band": "H",
+    "template": "holder-paid-total",
+    "question": "Across all claims filed against any policy held by Sten Stroud, what is the total amount that has been paid out?",
+    "answer": 37147,
+    "answer_type": "number"
+  },
+  {
+    "id": "H-03",
+    "band": "H",
+    "template": "holder-paid-total",
+    "question": "Across all claims filed against any policy held by Maren Stroud, what is the total amount that has been paid out?",
+    "answer": 18191,
+    "answer_type": "number"
+  },
+  {
+    "id": "H-04",
+    "band": "H",
+    "template": "holder-paid-total",
+    "question": "Across all claims filed against any policy held by Stellan Fenwick, what is the total amount that has been paid out?",
+    "answer": 96408,
+    "answer_type": "number"
+  },
+  {
+    "id": "H-05",
+    "band": "H",
+    "template": "claim-holder-city",
+    "question": "In which city does the policyholder whose policy claim C-31011 was filed against live?",
+    "answer": "Tarnholm",
+    "answer_type": "string"
+  },
+  {
+    "id": "H-06",
+    "band": "H",
+    "template": "claim-holder-city",
+    "question": "In which city does the policyholder whose policy claim C-31002 was filed against live?",
+    "answer": "Tarnholm",
+    "answer_type": "string"
+  },
+  {
+    "id": "H-07",
+    "band": "H",
+    "template": "claim-holder-city",
+    "question": "In which city does the policyholder whose policy claim C-31040 was filed against live?",
+    "answer": "Tarnholm",
+    "answer_type": "string"
+  },
+  {
+    "id": "H-08",
+    "band": "H",
+    "template": "claim-holder-city",
+    "question": "In which city does the policyholder whose policy claim C-31033 was filed against live?",
+    "answer": "Larkfield",
+    "answer_type": "string"
+  },
+  {
+    "id": "H-09",
+    "band": "H",
+    "template": "holder-coverage-kinds",
+    "question": "How many distinct coverage kinds exist across all policies held by Maren Oduya?",
+    "answer": 7,
+    "answer_type": "number"
+  },
+  {
+    "id": "H-10",
+    "band": "H",
+    "template": "holder-coverage-kinds",
+    "question": "How many distinct coverage kinds exist across all policies held by Jonas Renner?",
+    "answer": 5,
+    "answer_type": "number"
+  },
+  {
+    "id": "U-01",
+    "band": "U",
+    "template": "holder-phone",
+    "question": "What is the phone number of policyholder Anouk Voss?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-02",
+    "band": "U",
+    "template": "holder-phone",
+    "question": "What is the phone number of policyholder Vera Bexley?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-03",
+    "band": "U",
+    "template": "holder-phone",
+    "question": "What is the phone number of policyholder Ilka Abernath?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-04",
+    "band": "U",
+    "template": "claim-weather",
+    "question": "What was the weather like on the day the incident behind claim C-31056 happened?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-05",
+    "band": "U",
+    "template": "claim-weather",
+    "question": "What was the weather like on the day the incident behind claim C-31046 happened?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-06",
+    "band": "U",
+    "template": "claim-weather",
+    "question": "What was the weather like on the day the incident behind claim C-31076 happened?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-07",
+    "band": "U",
+    "template": "adjuster-email",
+    "question": "What is the work email address of adjuster Malin Oduya?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-08",
+    "band": "U",
+    "template": "adjuster-email",
+    "question": "What is the work email address of adjuster Casper Harmsen?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-09",
+    "band": "U",
+    "template": "claim-vin",
+    "question": "What is the VIN of the vehicle involved in claim C-31042?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  },
+  {
+    "id": "U-10",
+    "band": "U",
+    "template": "claim-vin",
+    "question": "What is the VIN of the vehicle involved in claim C-31054?",
+    "answer": "NOT_MODELED",
+    "answer_type": "string"
+  }
+]

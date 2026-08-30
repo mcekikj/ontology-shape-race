@@ -1,0 +1,20 @@
+# The article and its working notes live with the manuscript, not the code
+article/
+
+# Credentials never enter the repo
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store

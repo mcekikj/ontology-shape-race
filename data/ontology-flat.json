@@ -1,0 +1,2257 @@
+{
+ "edges": [
+  {
+   "dst": "claim:CL-001",
+   "props": {},
+   "src": "policyholder:PH-34",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-002",
+   "props": {},
+   "src": "policyholder:PH-15",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-003",
+   "props": {},
+   "src": "policyholder:PH-28",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-004",
+   "props": {},
+   "src": "policyholder:PH-30",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-005",
+   "props": {},
+   "src": "policyholder:PH-18",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-006",
+   "props": {},
+   "src": "policyholder:PH-39",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-007",
+   "props": {},
+   "src": "policyholder:PH-34",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-008",
+   "props": {},
+   "src": "policyholder:PH-15",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-009",
+   "props": {},
+   "src": "policyholder:PH-24",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-010",
+   "props": {},
+   "src": "policyholder:PH-01",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-011",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-012",
+   "props": {},
+   "src": "policyholder:PH-37",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-013",
+   "props": {},
+   "src": "policyholder:PH-19",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-014",
+   "props": {},
+   "src": "policyholder:PH-28",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-015",
+   "props": {},
+   "src": "policyholder:PH-08",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-016",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-017",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-018",
+   "props": {},
+   "src": "policyholder:PH-06",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-019",
+   "props": {},
+   "src": "policyholder:PH-01",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-020",
+   "props": {},
+   "src": "policyholder:PH-13",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-021",
+   "props": {},
+   "src": "policyholder:PH-22",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-022",
+   "props": {},
+   "src": "policyholder:PH-27",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-023",
+   "props": {},
+   "src": "policyholder:PH-24",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-024",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-025",
+   "props": {},
+   "src": "policyholder:PH-01",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-026",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-027",
+   "props": {},
+   "src": "policyholder:PH-01",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-028",
+   "props": {},
+   "src": "policyholder:PH-24",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-029",
+   "props": {},
+   "src": "policyholder:PH-16",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-030",
+   "props": {},
+   "src": "policyholder:PH-07",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-031",
+   "props": {},
+   "src": "policyholder:PH-25",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-032",
+   "props": {},
+   "src": "policyholder:PH-23",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-033",
+   "props": {},
+   "src": "policyholder:PH-28",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-034",
+   "props": {},
+   "src": "policyholder:PH-33",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-035",
+   "props": {},
+   "src": "policyholder:PH-32",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-036",
+   "props": {},
+   "src": "policyholder:PH-19",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-037",
+   "props": {},
+   "src": "policyholder:PH-23",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-038",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-039",
+   "props": {},
+   "src": "policyholder:PH-38",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-040",
+   "props": {},
+   "src": "policyholder:PH-18",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-041",
+   "props": {},
+   "src": "policyholder:PH-18",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-042",
+   "props": {},
+   "src": "policyholder:PH-33",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-043",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-044",
+   "props": {},
+   "src": "policyholder:PH-15",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-045",
+   "props": {},
+   "src": "policyholder:PH-29",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-046",
+   "props": {},
+   "src": "policyholder:PH-24",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-047",
+   "props": {},
+   "src": "policyholder:PH-12",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-048",
+   "props": {},
+   "src": "policyholder:PH-24",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-049",
+   "props": {},
+   "src": "policyholder:PH-33",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-050",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-051",
+   "props": {},
+   "src": "policyholder:PH-27",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-052",
+   "props": {},
+   "src": "policyholder:PH-38",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-053",
+   "props": {},
+   "src": "policyholder:PH-08",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-054",
+   "props": {},
+   "src": "policyholder:PH-15",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-055",
+   "props": {},
+   "src": "policyholder:PH-09",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-056",
+   "props": {},
+   "src": "policyholder:PH-12",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-057",
+   "props": {},
+   "src": "policyholder:PH-23",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-058",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-059",
+   "props": {},
+   "src": "policyholder:PH-09",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-060",
+   "props": {},
+   "src": "policyholder:PH-35",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-061",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-062",
+   "props": {},
+   "src": "policyholder:PH-40",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-063",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-064",
+   "props": {},
+   "src": "policyholder:PH-26",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-065",
+   "props": {},
+   "src": "policyholder:PH-01",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-066",
+   "props": {},
+   "src": "policyholder:PH-09",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-067",
+   "props": {},
+   "src": "policyholder:PH-05",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-068",
+   "props": {},
+   "src": "policyholder:PH-10",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-069",
+   "props": {},
+   "src": "policyholder:PH-09",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-070",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-071",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-072",
+   "props": {},
+   "src": "policyholder:PH-03",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-073",
+   "props": {},
+   "src": "policyholder:PH-23",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-074",
+   "props": {},
+   "src": "policyholder:PH-09",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-075",
+   "props": {},
+   "src": "policyholder:PH-01",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-076",
+   "props": {},
+   "src": "policyholder:PH-36",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-077",
+   "props": {},
+   "src": "policyholder:PH-08",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-078",
+   "props": {},
+   "src": "policyholder:PH-36",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-079",
+   "props": {},
+   "src": "policyholder:PH-04",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-080",
+   "props": {},
+   "src": "policyholder:PH-21",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-081",
+   "props": {},
+   "src": "policyholder:PH-12",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-082",
+   "props": {},
+   "src": "policyholder:PH-07",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-083",
+   "props": {},
+   "src": "policyholder:PH-21",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-084",
+   "props": {},
+   "src": "policyholder:PH-33",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-085",
+   "props": {},
+   "src": "policyholder:PH-28",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-086",
+   "props": {},
+   "src": "policyholder:PH-09",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-087",
+   "props": {},
+   "src": "policyholder:PH-14",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-088",
+   "props": {},
+   "src": "policyholder:PH-27",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-089",
+   "props": {},
+   "src": "policyholder:PH-30",
+   "type": "related"
+  },
+  {
+   "dst": "claim:CL-090",
+   "props": {},
+   "src": "policyholder:PH-38",
+   "type": "related"
+  }
+ ],
+ "nodes": {
+  "claim:CL-001": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 14500,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "liability",
+    "number": "C-31000",
+    "payments": "[]",
+    "policy_id": "PL-062",
+    "provider": "{\"id\": \"PR-01\", \"name\": \"Cedarline Collision Works\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-002": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 28200,
+    "cause": "break-in",
+    "coverage_kind": "flood",
+    "number": "C-31001",
+    "payments": "[{\"id\": \"PM-001\", \"amount\": 17778, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-029",
+    "provider": "null",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-003": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 33100,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "theft",
+    "number": "C-31002",
+    "payments": "[]",
+    "policy_id": "PL-052",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-004": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 37350,
+    "cause": "storm flooding",
+    "coverage_kind": "flood",
+    "number": "C-31003",
+    "payments": "[{\"id\": \"PM-002\", \"amount\": 16436, \"year\": 2025, \"method\": \"cheque\"}, {\"id\": \"PM-003\", \"amount\": 16436, \"year\": 2025, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-055",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-005": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 5950,
+    "cause": "storm flooding",
+    "coverage_kind": "fire",
+    "number": "C-31004",
+    "payments": "[{\"id\": \"PM-004\", \"amount\": 2511, \"year\": 2023, \"method\": \"cheque\"}, {\"id\": \"PM-005\", \"amount\": 2512, \"year\": 2023, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-034",
+    "provider": "null",
+    "status": "settled",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-006": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 24350,
+    "cause": "storm flooding",
+    "coverage_kind": "flood",
+    "number": "C-31005",
+    "payments": "[]",
+    "policy_id": "PL-074",
+    "provider": "null",
+    "status": "denied",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-007": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 21550,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "collision",
+    "number": "C-31006",
+    "payments": "[]",
+    "policy_id": "PL-062",
+    "provider": "{\"id\": \"PR-09\", \"name\": \"Duskwater Repair Co\", \"specialty\": \"glass\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-008": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 5000,
+    "cause": "theft from vehicle",
+    "coverage_kind": "glass",
+    "number": "C-31007",
+    "payments": "[{\"id\": \"PM-006\", \"amount\": 3739, \"year\": 2026, \"method\": \"cheque\"}]",
+    "policy_id": "PL-028",
+    "provider": "{\"id\": \"PR-11\", \"name\": \"Coldharbour Motorworks\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "status": "settled",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-009": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 34950,
+    "cause": "theft from vehicle",
+    "coverage_kind": "theft",
+    "number": "C-31008",
+    "payments": "[{\"id\": \"PM-007\", \"amount\": 32472, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-047",
+    "provider": "{\"id\": \"PR-04\", \"name\": \"Bluegate Motorworks\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-010": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 39400,
+    "cause": "lightning strike",
+    "coverage_kind": "liability",
+    "number": "C-31009",
+    "payments": "[]",
+    "policy_id": "PL-003",
+    "provider": "null",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-011": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 27250,
+    "cause": "collision at mooring",
+    "coverage_kind": "liability",
+    "number": "C-31010",
+    "payments": "[]",
+    "policy_id": "PL-025",
+    "provider": "null",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-012": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 24200,
+    "cause": "burst pipe",
+    "coverage_kind": "liability",
+    "number": "C-31011",
+    "payments": "[{\"id\": \"PM-008\", \"amount\": 13227, \"year\": 2023, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-068",
+    "provider": "null",
+    "status": "settled",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-013": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 27600,
+    "cause": "grounding",
+    "coverage_kind": "liability",
+    "number": "C-31012",
+    "payments": "[{\"id\": \"PM-009\", \"amount\": 8923, \"year\": 2023, \"method\": \"bank transfer\"}, {\"id\": \"PM-010\", \"amount\": 8924, \"year\": 2023, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-037",
+    "provider": "null",
+    "status": "settled",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-014": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 31150,
+    "cause": "lightning strike",
+    "coverage_kind": "liability",
+    "number": "C-31013",
+    "payments": "[]",
+    "policy_id": "PL-053",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-015": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 23850,
+    "cause": "rear-end collision",
+    "coverage_kind": "liability",
+    "number": "C-31014",
+    "payments": "[]",
+    "policy_id": "PL-015",
+    "provider": "{\"id\": \"PR-08\", \"name\": \"Marrowpoint Restoration\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-016": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 38300,
+    "cause": "windscreen crack",
+    "coverage_kind": "theft",
+    "number": "C-31015",
+    "payments": "[]",
+    "policy_id": "PL-007",
+    "provider": "{\"id\": \"PR-08\", \"name\": \"Marrowpoint Restoration\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-017": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 32400,
+    "cause": "hail damage",
+    "coverage_kind": "collision",
+    "number": "C-31016",
+    "payments": "[]",
+    "policy_id": "PL-026",
+    "provider": "{\"id\": \"PR-06\", \"name\": \"Larkfield Restoration\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-018": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 6600,
+    "cause": "storm flooding",
+    "coverage_kind": "flood",
+    "number": "C-31017",
+    "payments": "[{\"id\": \"PM-011\", \"amount\": 5917, \"year\": 2025, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-011",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-019": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 5750,
+    "cause": "grounding",
+    "coverage_kind": "salvage",
+    "number": "C-31018",
+    "payments": "[{\"id\": \"PM-012\", \"amount\": 2698, \"year\": 2025, \"method\": \"bank transfer\"}, {\"id\": \"PM-013\", \"amount\": 2698, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-002",
+    "provider": "null",
+    "status": "settled",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-020": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 33550,
+    "cause": "storm damage",
+    "coverage_kind": "liability",
+    "number": "C-31019",
+    "payments": "[{\"id\": \"PM-014\", \"amount\": 18717, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-024",
+    "provider": "null",
+    "status": "settled",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-021": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 10850,
+    "cause": "engine-room fire",
+    "coverage_kind": "liability",
+    "number": "C-31020",
+    "payments": "[]",
+    "policy_id": "PL-043",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-022": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 23600,
+    "cause": "collision at mooring",
+    "coverage_kind": "hull",
+    "number": "C-31021",
+    "payments": "[{\"id\": \"PM-015\", \"amount\": 10003, \"year\": 2024, \"method\": \"cheque\"}, {\"id\": \"PM-016\", \"amount\": 10004, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-051",
+    "provider": "null",
+    "status": "approved",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-023": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 25600,
+    "cause": "theft from vehicle",
+    "coverage_kind": "glass",
+    "number": "C-31022",
+    "payments": "[]",
+    "policy_id": "PL-047",
+    "provider": "{\"id\": \"PR-02\", \"name\": \"Amberfen Repair Co\", \"specialty\": \"electrical\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "denied",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-024": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 24600,
+    "cause": "storm damage",
+    "coverage_kind": "hull",
+    "number": "C-31023",
+    "payments": "[{\"id\": \"PM-017\", \"amount\": 6222, \"year\": 2025, \"method\": \"bank transfer\"}, {\"id\": \"PM-018\", \"amount\": 6222, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-025",
+    "provider": "null",
+    "status": "settled",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-025": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 16250,
+    "cause": "lightning strike",
+    "coverage_kind": "liability",
+    "number": "C-31024",
+    "payments": "[]",
+    "policy_id": "PL-001",
+    "provider": "null",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-026": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 4450,
+    "cause": "engine-room fire",
+    "coverage_kind": "salvage",
+    "number": "C-31025",
+    "payments": "[{\"id\": \"PM-019\", \"amount\": 2732, \"year\": 2023, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-027",
+    "provider": "null",
+    "status": "approved",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-027": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 17150,
+    "cause": "collision at mooring",
+    "coverage_kind": "salvage",
+    "number": "C-31026",
+    "payments": "[]",
+    "policy_id": "PL-002",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-028": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 30850,
+    "cause": "storm damage",
+    "coverage_kind": "liability",
+    "number": "C-31027",
+    "payments": "[]",
+    "policy_id": "PL-046",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-029": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 37250,
+    "cause": "lightning strike",
+    "coverage_kind": "liability",
+    "number": "C-31028",
+    "payments": "[{\"id\": \"PM-020\", \"amount\": 10667, \"year\": 2026, \"method\": \"cheque\"}, {\"id\": \"PM-021\", \"amount\": 10668, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-032",
+    "provider": "null",
+    "status": "settled",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-030": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 4450,
+    "cause": "grounding",
+    "coverage_kind": "hull",
+    "number": "C-31029",
+    "payments": "[]",
+    "policy_id": "PL-012",
+    "provider": "null",
+    "status": "denied",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-031": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 6150,
+    "cause": "break-in",
+    "coverage_kind": "fire",
+    "number": "C-31030",
+    "payments": "[]",
+    "policy_id": "PL-049",
+    "provider": "null",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-032": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 36100,
+    "cause": "storm flooding",
+    "coverage_kind": "liability",
+    "number": "C-31031",
+    "payments": "[]",
+    "policy_id": "PL-044",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-033": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 38700,
+    "cause": "burst pipe",
+    "coverage_kind": "theft",
+    "number": "C-31032",
+    "payments": "[]",
+    "policy_id": "PL-053",
+    "provider": "null",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-034": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 36100,
+    "cause": "break-in",
+    "coverage_kind": "fire",
+    "number": "C-31033",
+    "payments": "[]",
+    "policy_id": "PL-061",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-035": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 4350,
+    "cause": "storm flooding",
+    "coverage_kind": "theft",
+    "number": "C-31034",
+    "payments": "[]",
+    "policy_id": "PL-058",
+    "provider": "null",
+    "status": "denied",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-036": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 22550,
+    "cause": "storm damage",
+    "coverage_kind": "liability",
+    "number": "C-31035",
+    "payments": "[]",
+    "policy_id": "PL-037",
+    "provider": "null",
+    "status": "denied",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-037": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 29200,
+    "cause": "windscreen crack",
+    "coverage_kind": "liability",
+    "number": "C-31036",
+    "payments": "[{\"id\": \"PM-022\", \"amount\": 27619, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-045",
+    "provider": "{\"id\": \"PR-02\", \"name\": \"Amberfen Repair Co\", \"specialty\": \"electrical\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "settled",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-038": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 4400,
+    "cause": "engine-room fire",
+    "coverage_kind": "liability",
+    "number": "C-31037",
+    "payments": "[]",
+    "policy_id": "PL-006",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-039": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 6400,
+    "cause": "engine-room fire",
+    "coverage_kind": "hull",
+    "number": "C-31038",
+    "payments": "[{\"id\": \"PM-023\", \"amount\": 2193, \"year\": 2023, \"method\": \"bank transfer\"}, {\"id\": \"PM-024\", \"amount\": 2194, \"year\": 2023, \"method\": \"cheque\"}]",
+    "policy_id": "PL-071",
+    "provider": "null",
+    "status": "approved",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-040": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 9900,
+    "cause": "engine-room fire",
+    "coverage_kind": "hull",
+    "number": "C-31039",
+    "payments": "[]",
+    "policy_id": "PL-035",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-041": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 33750,
+    "cause": "lightning strike",
+    "coverage_kind": "flood",
+    "number": "C-31040",
+    "payments": "[{\"id\": \"PM-025\", \"amount\": 26784, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-034",
+    "provider": "null",
+    "status": "settled",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-042": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 26000,
+    "cause": "storm flooding",
+    "coverage_kind": "theft",
+    "number": "C-31041",
+    "payments": "[{\"id\": \"PM-026\", \"amount\": 20559, \"year\": 2023, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-061",
+    "provider": "null",
+    "status": "settled",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-043": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 8500,
+    "cause": "collision at mooring",
+    "coverage_kind": "hull",
+    "number": "C-31042",
+    "payments": "[]",
+    "policy_id": "PL-008",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-044": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 19450,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "liability",
+    "number": "C-31043",
+    "payments": "[]",
+    "policy_id": "PL-028",
+    "provider": "{\"id\": \"PR-07\", \"name\": \"Veyland Restoration\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-045": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 37900,
+    "cause": "windscreen crack",
+    "coverage_kind": "glass",
+    "number": "C-31044",
+    "payments": "[{\"id\": \"PM-027\", \"amount\": 37147, \"year\": 2026, \"method\": \"cheque\"}]",
+    "policy_id": "PL-054",
+    "provider": "{\"id\": \"PR-01\", \"name\": \"Cedarline Collision Works\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "status": "settled",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-046": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 2950,
+    "cause": "burst pipe",
+    "coverage_kind": "flood",
+    "number": "C-31045",
+    "payments": "[{\"id\": \"PM-028\", \"amount\": 1823, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-048",
+    "provider": "null",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-047": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 1800,
+    "cause": "windscreen crack",
+    "coverage_kind": "liability",
+    "number": "C-31046",
+    "payments": "[{\"id\": \"PM-029\", \"amount\": 569, \"year\": 2026, \"method\": \"cheque\"}, {\"id\": \"PM-030\", \"amount\": 570, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-021",
+    "provider": "{\"id\": \"PR-11\", \"name\": \"Coldharbour Motorworks\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-048": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 13300,
+    "cause": "theft from vehicle",
+    "coverage_kind": "theft",
+    "number": "C-31047",
+    "payments": "[{\"id\": \"PM-031\", \"amount\": 6276, \"year\": 2024, \"method\": \"cheque\"}, {\"id\": \"PM-032\", \"amount\": 6276, \"year\": 2024, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-047",
+    "provider": "{\"id\": \"PR-04\", \"name\": \"Bluegate Motorworks\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "status": "approved",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-049": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 10950,
+    "cause": "lightning strike",
+    "coverage_kind": "liability",
+    "number": "C-31048",
+    "payments": "[{\"id\": \"PM-033\", \"amount\": 9381, \"year\": 2025, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-060",
+    "provider": "null",
+    "status": "settled",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-050": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 21600,
+    "cause": "grounding",
+    "coverage_kind": "hull",
+    "number": "C-31049",
+    "payments": "[]",
+    "policy_id": "PL-008",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-051": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 23050,
+    "cause": "grounding",
+    "coverage_kind": "hull",
+    "number": "C-31050",
+    "payments": "[{\"id\": \"PM-034\", \"amount\": 14821, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-051",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-052": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 9750,
+    "cause": "burst pipe",
+    "coverage_kind": "theft",
+    "number": "C-31051",
+    "payments": "[{\"id\": \"PM-035\", \"amount\": 7256, \"year\": 2025, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-069",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-053": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 39800,
+    "cause": "engine-room fire",
+    "coverage_kind": "hull",
+    "number": "C-31052",
+    "payments": "[]",
+    "policy_id": "PL-014",
+    "provider": "null",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-054": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 38250,
+    "cause": "windscreen crack",
+    "coverage_kind": "glass",
+    "number": "C-31053",
+    "payments": "[]",
+    "policy_id": "PL-028",
+    "provider": "{\"id\": \"PR-03\", \"name\": \"Stonehollow Motorworks\", \"specialty\": \"glass\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-055": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 25550,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "theft",
+    "number": "C-31054",
+    "payments": "[{\"id\": \"PM-036\", \"amount\": 12199, \"year\": 2026, \"method\": \"bank transfer\"}, {\"id\": \"PM-037\", \"amount\": 12199, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-016",
+    "provider": "{\"id\": \"PR-09\", \"name\": \"Duskwater Repair Co\", \"specialty\": \"glass\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-056": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 38200,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "liability",
+    "number": "C-31055",
+    "payments": "[{\"id\": \"PM-038\", \"amount\": 22448, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-022",
+    "provider": "{\"id\": \"PR-06\", \"name\": \"Larkfield Restoration\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "status": "settled",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-057": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 10650,
+    "cause": "hail damage",
+    "coverage_kind": "theft",
+    "number": "C-31056",
+    "payments": "[{\"id\": \"PM-039\", \"amount\": 4509, \"year\": 2026, \"method\": \"bank transfer\"}, {\"id\": \"PM-040\", \"amount\": 4510, \"year\": 2026, \"method\": \"cheque\"}]",
+    "policy_id": "PL-045",
+    "provider": "{\"id\": \"PR-12\", \"name\": \"Wrenfield Restoration\", \"specialty\": \"glass\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-058": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 9950,
+    "cause": "grounding",
+    "coverage_kind": "hull",
+    "number": "C-31057",
+    "payments": "[]",
+    "policy_id": "PL-008",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-059": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-03\", \"name\": \"Elsa Duval\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 11850,
+    "cause": "theft from vehicle",
+    "coverage_kind": "theft",
+    "number": "C-31058",
+    "payments": "[{\"id\": \"PM-041\", \"amount\": 11353, \"year\": 2023, \"method\": \"cheque\"}]",
+    "policy_id": "PL-016",
+    "provider": "{\"id\": \"PR-04\", \"name\": \"Bluegate Motorworks\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "status": "settled",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-060": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 39100,
+    "cause": "burst pipe",
+    "coverage_kind": "flood",
+    "number": "C-31059",
+    "payments": "[]",
+    "policy_id": "PL-065",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-061": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 33000,
+    "cause": "storm damage",
+    "coverage_kind": "salvage",
+    "number": "C-31060",
+    "payments": "[]",
+    "policy_id": "PL-006",
+    "provider": "null",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-062": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-01\", \"name\": \"Mireille Renner\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 32150,
+    "cause": "theft from vehicle",
+    "coverage_kind": "liability",
+    "number": "C-31061",
+    "payments": "[]",
+    "policy_id": "PL-075",
+    "provider": "{\"id\": \"PR-02\", \"name\": \"Amberfen Repair Co\", \"specialty\": \"electrical\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-063": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 14700,
+    "cause": "engine-room fire",
+    "coverage_kind": "hull",
+    "number": "C-31062",
+    "payments": "[]",
+    "policy_id": "PL-008",
+    "provider": "null",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-064": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 26100,
+    "cause": "engine-room fire",
+    "coverage_kind": "hull",
+    "number": "C-31063",
+    "payments": "[{\"id\": \"PM-042\", \"amount\": 15000, \"year\": 2025, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-050",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-065": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 13750,
+    "cause": "grounding",
+    "coverage_kind": "liability",
+    "number": "C-31064",
+    "payments": "[{\"id\": \"PM-043\", \"amount\": 9387, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-002",
+    "provider": "null",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-066": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 29000,
+    "cause": "hail damage",
+    "coverage_kind": "liability",
+    "number": "C-31065",
+    "payments": "[]",
+    "policy_id": "PL-018",
+    "provider": "{\"id\": \"PR-08\", \"name\": \"Marrowpoint Restoration\", \"specialty\": \"bodywork\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "status": "denied",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-067": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 24900,
+    "cause": "storm flooding",
+    "coverage_kind": "theft",
+    "number": "C-31066",
+    "payments": "[]",
+    "policy_id": "PL-009",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-068": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-05\", \"name\": \"Noor Kraal\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 12100,
+    "cause": "break-in",
+    "coverage_kind": "flood",
+    "number": "C-31067",
+    "payments": "[]",
+    "policy_id": "PL-019",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-069": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 33050,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "theft",
+    "number": "C-31068",
+    "payments": "[]",
+    "policy_id": "PL-016",
+    "provider": "{\"id\": \"PR-05\", \"name\": \"Ironquay Repair Co\", \"specialty\": \"frame\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-070": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 36300,
+    "cause": "grounding",
+    "coverage_kind": "hull",
+    "number": "C-31069",
+    "payments": "[]",
+    "policy_id": "PL-025",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-071": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 36350,
+    "cause": "engine-room fire",
+    "coverage_kind": "liability",
+    "number": "C-31070",
+    "payments": "[]",
+    "policy_id": "PL-027",
+    "provider": "null",
+    "status": "submitted",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-072": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 20450,
+    "cause": "windscreen crack",
+    "coverage_kind": "glass",
+    "number": "C-31071",
+    "payments": "[{\"id\": \"PM-044\", \"amount\": 9095, \"year\": 2024, \"method\": \"bank transfer\"}, {\"id\": \"PM-045\", \"amount\": 9096, \"year\": 2024, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-005",
+    "provider": "{\"id\": \"PR-02\", \"name\": \"Amberfen Repair Co\", \"specialty\": \"electrical\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "approved",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-073": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 31650,
+    "cause": "kitchen fire",
+    "coverage_kind": "flood",
+    "number": "C-31072",
+    "payments": "[{\"id\": \"PM-046\", \"amount\": 10818, \"year\": 2026, \"method\": \"bank transfer\"}, {\"id\": \"PM-047\", \"amount\": 10818, \"year\": 2026, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-044",
+    "provider": "null",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-074": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 37450,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "theft",
+    "number": "C-31073",
+    "payments": "[{\"id\": \"PM-048\", \"amount\": 35696, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-016",
+    "provider": "null",
+    "status": "settled",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-075": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 11650,
+    "cause": "grounding",
+    "coverage_kind": "liability",
+    "number": "C-31074",
+    "payments": "[]",
+    "policy_id": "PL-002",
+    "provider": "null",
+    "status": "denied",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-076": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 15100,
+    "cause": "single-vehicle accident",
+    "coverage_kind": "glass",
+    "number": "C-31075",
+    "payments": "[]",
+    "policy_id": "PL-066",
+    "provider": "{\"id\": \"PR-03\", \"name\": \"Stonehollow Motorworks\", \"specialty\": \"glass\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "status": "denied",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-077": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 10600,
+    "cause": "windscreen crack",
+    "coverage_kind": "collision",
+    "number": "C-31076",
+    "payments": "[]",
+    "policy_id": "PL-015",
+    "provider": "{\"id\": \"PR-10\", \"name\": \"Fernvale Restoration\", \"specialty\": \"frame\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "status": "in_review",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-078": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 15350,
+    "cause": "rear-end collision",
+    "coverage_kind": "glass",
+    "number": "C-31077",
+    "payments": "[{\"id\": \"PM-049\", \"amount\": 6927, \"year\": 2023, \"method\": \"cheque\"}, {\"id\": \"PM-050\", \"amount\": 6928, \"year\": 2023, \"method\": \"cheque\"}]",
+    "policy_id": "PL-066",
+    "provider": "{\"id\": \"PR-09\", \"name\": \"Duskwater Repair Co\", \"specialty\": \"glass\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "status": "approved",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-079": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 2400,
+    "cause": "grounding",
+    "coverage_kind": "liability",
+    "number": "C-31078",
+    "payments": "[{\"id\": \"PM-051\", \"amount\": 1303, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-006",
+    "provider": "null",
+    "status": "settled",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-080": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 34150,
+    "cause": "engine-room fire",
+    "coverage_kind": "salvage",
+    "number": "C-31079",
+    "payments": "[]",
+    "policy_id": "PL-042",
+    "provider": "null",
+    "status": "denied",
+    "year": 2023
+   },
+   "type": "claim"
+  },
+  "claim:CL-081": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 27150,
+    "cause": "rear-end collision",
+    "coverage_kind": "liability",
+    "number": "C-31080",
+    "payments": "[{\"id\": \"PM-052\", \"amount\": 8036, \"year\": 2025, \"method\": \"cheque\"}, {\"id\": \"PM-053\", \"amount\": 8037, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-022",
+    "provider": "{\"id\": \"PR-02\", \"name\": \"Amberfen Repair Co\", \"specialty\": \"electrical\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-082": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-04\", \"name\": \"Maren Sablon\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 37350,
+    "cause": "engine-room fire",
+    "coverage_kind": "liability",
+    "number": "C-31081",
+    "payments": "[{\"id\": \"PM-054\", \"amount\": 32919, \"year\": 2025, \"method\": \"bank transfer\"}]",
+    "policy_id": "PL-012",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-083": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-09\", \"name\": \"Casper Harmsen\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-04\", \"name\": \"Stonehollow\"}}",
+    "amount_claimed": 23250,
+    "cause": "rear-end collision",
+    "coverage_kind": "collision",
+    "number": "C-31082",
+    "payments": "[{\"id\": \"PM-055\", \"amount\": 19121, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-041",
+    "provider": "{\"id\": \"PR-07\", \"name\": \"Veyland Restoration\", \"specialty\": \"paint\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "status": "settled",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-084": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-08\", \"name\": \"Odile Voss\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-03\", \"name\": \"Amberfen\"}}",
+    "amount_claimed": 5200,
+    "cause": "break-in",
+    "coverage_kind": "flood",
+    "number": "C-31083",
+    "payments": "[{\"id\": \"PM-056\", \"amount\": 3390, \"year\": 2026, \"method\": \"cheque\"}]",
+    "policy_id": "PL-060",
+    "provider": "null",
+    "status": "approved",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-085": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 23350,
+    "cause": "storm flooding",
+    "coverage_kind": "liability",
+    "number": "C-31084",
+    "payments": "[]",
+    "policy_id": "PL-053",
+    "provider": "null",
+    "status": "denied",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-086": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 30700,
+    "cause": "theft from vehicle",
+    "coverage_kind": "collision",
+    "number": "C-31085",
+    "payments": "[{\"id\": \"PM-057\", \"amount\": 24961, \"year\": 2026, \"method\": \"cheque\"}]",
+    "policy_id": "PL-018",
+    "provider": "{\"id\": \"PR-05\", \"name\": \"Ironquay Repair Co\", \"specialty\": \"frame\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "status": "settled",
+    "year": 2026
+   },
+   "type": "claim"
+  },
+  "claim:CL-087": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-02\", \"name\": \"Malin Marwick\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 35450,
+    "cause": "storm damage",
+    "coverage_kind": "hull",
+    "number": "C-31086",
+    "payments": "[]",
+    "policy_id": "PL-025",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "claim:CL-088": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-06\", \"name\": \"Malin Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-01\", \"name\": \"Northreach\"}}",
+    "amount_claimed": 15600,
+    "cause": "storm damage",
+    "coverage_kind": "hull",
+    "number": "C-31087",
+    "payments": "[{\"id\": \"PM-058\", \"amount\": 8536, \"year\": 2024, \"method\": \"cheque\"}]",
+    "policy_id": "PL-051",
+    "provider": "null",
+    "status": "settled",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-089": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-07\", \"name\": \"Bram Ferber\", \"seniority\": \"junior\", \"region\": {\"id\": \"RG-02\", \"name\": \"Veyland\"}}",
+    "amount_claimed": 28500,
+    "cause": "kitchen fire",
+    "coverage_kind": "theft",
+    "number": "C-31088",
+    "payments": "[]",
+    "policy_id": "PL-055",
+    "provider": "null",
+    "status": "in_review",
+    "year": 2024
+   },
+   "type": "claim"
+  },
+  "claim:CL-090": {
+   "props": {
+    "adjuster": "{\"id\": \"AJ-10\", \"name\": \"Mireille Oduya\", \"seniority\": \"principal\", \"region\": {\"id\": \"RG-05\", \"name\": \"Cresmoor\"}}",
+    "amount_claimed": 35700,
+    "cause": "engine-room fire",
+    "coverage_kind": "liability",
+    "number": "C-31089",
+    "payments": "[{\"id\": \"PM-059\", \"amount\": 22594, \"year\": 2025, \"method\": \"cheque\"}]",
+    "policy_id": "PL-071",
+    "provider": "null",
+    "status": "approved",
+    "year": 2025
+   },
+   "type": "claim"
+  },
+  "policyholder:PH-01": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Ivo Voss",
+    "policies": "[{\"id\": \"PL-001\", \"number\": \"P-7001\", \"product\": \"home\", \"start_year\": 2025, \"premium\": 1350, \"renewed_from_id\": \"PL-003\", \"coverages\": [{\"id\": \"CV-001\", \"kind\": \"flood\", \"limit\": 32200, \"deductible\": 750}, {\"id\": \"CV-002\", \"kind\": \"liability\", \"limit\": 24650, \"deductible\": 500}, {\"id\": \"CV-003\", \"kind\": \"theft\", \"limit\": 43100, \"deductible\": 1150}, {\"id\": \"CV-004\", \"kind\": \"fire\", \"limit\": 13900, \"deductible\": 600}]}, {\"id\": \"PL-002\", \"number\": \"P-7002\", \"product\": \"marine\", \"start_year\": 2019, \"premium\": 1550, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-005\", \"kind\": \"liability\", \"limit\": 20000, \"deductible\": 1150}, {\"id\": \"CV-006\", \"kind\": \"salvage\", \"limit\": 81650, \"deductible\": 700}]}, {\"id\": \"PL-003\", \"number\": \"P-7003\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 2950, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-007\", \"kind\": \"theft\", \"limit\": 78950, \"deductible\": 600}, {\"id\": \"CV-008\", \"kind\": \"liability\", \"limit\": 56200, \"deductible\": 100}, {\"id\": \"CV-009\", \"kind\": \"fire\", \"limit\": 52050, \"deductible\": 1300}]}]",
+    "since_year": 2016
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-02": {
+   "props": {
+    "city": "Dunmere",
+    "name": "Fenna Voss",
+    "policies": "[{\"id\": \"PL-004\", \"number\": \"P-7004\", \"product\": \"home\", \"start_year\": 2025, \"premium\": 2200, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-010\", \"kind\": \"liability\", \"limit\": 65850, \"deductible\": 900}, {\"id\": \"CV-011\", \"kind\": \"flood\", \"limit\": 36600, \"deductible\": 200}, {\"id\": \"CV-012\", \"kind\": \"fire\", \"limit\": 7950, \"deductible\": 900}]}]",
+    "since_year": 2012
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-03": {
+   "props": {
+    "city": "Dunmere",
+    "name": "Maren Stroud",
+    "policies": "[{\"id\": \"PL-005\", \"number\": \"P-7005\", \"product\": \"auto\", \"start_year\": 2022, \"premium\": 1450, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-013\", \"kind\": \"theft\", \"limit\": 89100, \"deductible\": 800}, {\"id\": \"CV-014\", \"kind\": \"liability\", \"limit\": 27000, \"deductible\": 1000}, {\"id\": \"CV-015\", \"kind\": \"glass\", \"limit\": 22900, \"deductible\": 750}, {\"id\": \"CV-016\", \"kind\": \"collision\", \"limit\": 6050, \"deductible\": 1250}]}]",
+    "since_year": 2012
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-04": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Elsa Stroud",
+    "policies": "[{\"id\": \"PL-006\", \"number\": \"P-7006\", \"product\": \"marine\", \"start_year\": 2019, \"premium\": 400, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-017\", \"kind\": \"salvage\", \"limit\": 87550, \"deductible\": 800}, {\"id\": \"CV-018\", \"kind\": \"liability\", \"limit\": 39300, \"deductible\": 1400}]}, {\"id\": \"PL-007\", \"number\": \"P-7007\", \"product\": \"auto\", \"start_year\": 2025, \"premium\": 1200, \"renewed_from_id\": \"PL-006\", \"coverages\": [{\"id\": \"CV-019\", \"kind\": \"theft\", \"limit\": 24000, \"deductible\": 400}, {\"id\": \"CV-020\", \"kind\": \"liability\", \"limit\": 44500, \"deductible\": 900}]}, {\"id\": \"PL-008\", \"number\": \"P-7008\", \"product\": \"marine\", \"start_year\": 2020, \"premium\": 3000, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-021\", \"kind\": \"hull\", \"limit\": 43500, \"deductible\": 850}, {\"id\": \"CV-022\", \"kind\": \"salvage\", \"limit\": 73850, \"deductible\": 300}]}]",
+    "since_year": 2018
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-05": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Ivo Renner",
+    "policies": "[{\"id\": \"PL-009\", \"number\": \"P-7009\", \"product\": \"home\", \"start_year\": 2023, \"premium\": 750, \"renewed_from_id\": \"PL-010\", \"coverages\": [{\"id\": \"CV-023\", \"kind\": \"theft\", \"limit\": 47550, \"deductible\": 150}, {\"id\": \"CV-024\", \"kind\": \"liability\", \"limit\": 15450, \"deductible\": 250}, {\"id\": \"CV-025\", \"kind\": \"flood\", \"limit\": 24500, \"deductible\": 650}, {\"id\": \"CV-026\", \"kind\": \"fire\", \"limit\": 18450, \"deductible\": 950}]}, {\"id\": \"PL-010\", \"number\": \"P-7010\", \"product\": \"auto\", \"start_year\": 2022, \"premium\": 2200, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-027\", \"kind\": \"collision\", \"limit\": 44750, \"deductible\": 400}, {\"id\": \"CV-028\", \"kind\": \"glass\", \"limit\": 87300, \"deductible\": 450}, {\"id\": \"CV-029\", \"kind\": \"theft\", \"limit\": 7900, \"deductible\": 1200}]}]",
+    "since_year": 2013
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-06": {
+   "props": {
+    "city": "Silverden",
+    "name": "Sanne Fenwick",
+    "policies": "[{\"id\": \"PL-011\", \"number\": \"P-7011\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 2600, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-030\", \"kind\": \"flood\", \"limit\": 49000, \"deductible\": 1150}, {\"id\": \"CV-031\", \"kind\": \"fire\", \"limit\": 5250, \"deductible\": 1000}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-07": {
+   "props": {
+    "city": "Dunmere",
+    "name": "Ivo Quist",
+    "policies": "[{\"id\": \"PL-012\", \"number\": \"P-7012\", \"product\": \"marine\", \"start_year\": 2024, \"premium\": 2300, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-032\", \"kind\": \"hull\", \"limit\": 17350, \"deductible\": 800}, {\"id\": \"CV-033\", \"kind\": \"liability\", \"limit\": 23250, \"deductible\": 1250}]}, {\"id\": \"PL-013\", \"number\": \"P-7013\", \"product\": \"auto\", \"start_year\": 2019, \"premium\": 1250, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-034\", \"kind\": \"collision\", \"limit\": 62950, \"deductible\": 950}, {\"id\": \"CV-035\", \"kind\": \"glass\", \"limit\": 62650, \"deductible\": 1000}, {\"id\": \"CV-036\", \"kind\": \"theft\", \"limit\": 43900, \"deductible\": 850}, {\"id\": \"CV-037\", \"kind\": \"liability\", \"limit\": 79600, \"deductible\": 500}]}]",
+    "since_year": 2015
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-08": {
+   "props": {
+    "city": "Silverden",
+    "name": "Stellan Oduya",
+    "policies": "[{\"id\": \"PL-014\", \"number\": \"P-7014\", \"product\": \"marine\", \"start_year\": 2021, \"premium\": 3150, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-038\", \"kind\": \"hull\", \"limit\": 73750, \"deductible\": 100}, {\"id\": \"CV-039\", \"kind\": \"salvage\", \"limit\": 77150, \"deductible\": 1100}, {\"id\": \"CV-040\", \"kind\": \"liability\", \"limit\": 67200, \"deductible\": 950}]}, {\"id\": \"PL-015\", \"number\": \"P-7015\", \"product\": \"auto\", \"start_year\": 2025, \"premium\": 2500, \"renewed_from_id\": \"PL-014\", \"coverages\": [{\"id\": \"CV-041\", \"kind\": \"collision\", \"limit\": 61000, \"deductible\": 350}, {\"id\": \"CV-042\", \"kind\": \"theft\", \"limit\": 23450, \"deductible\": 600}, {\"id\": \"CV-043\", \"kind\": \"glass\", \"limit\": 87900, \"deductible\": 800}, {\"id\": \"CV-044\", \"kind\": \"liability\", \"limit\": 51250, \"deductible\": 350}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-09": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Stellan Fenwick",
+    "policies": "[{\"id\": \"PL-016\", \"number\": \"P-7016\", \"product\": \"auto\", \"start_year\": 2021, \"premium\": 2400, \"renewed_from_id\": \"PL-017\", \"coverages\": [{\"id\": \"CV-045\", \"kind\": \"theft\", \"limit\": 41750, \"deductible\": 200}, {\"id\": \"CV-046\", \"kind\": \"liability\", \"limit\": 69700, \"deductible\": 150}]}, {\"id\": \"PL-017\", \"number\": \"P-7017\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 1700, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-047\", \"kind\": \"liability\", \"limit\": 78600, \"deductible\": 150}, {\"id\": \"CV-048\", \"kind\": \"theft\", \"limit\": 61700, \"deductible\": 1050}]}, {\"id\": \"PL-018\", \"number\": \"P-7018\", \"product\": \"auto\", \"start_year\": 2020, \"premium\": 2300, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-049\", \"kind\": \"liability\", \"limit\": 85050, \"deductible\": 350}, {\"id\": \"CV-050\", \"kind\": \"theft\", \"limit\": 75550, \"deductible\": 850}, {\"id\": \"CV-051\", \"kind\": \"collision\", \"limit\": 64750, \"deductible\": 1450}, {\"id\": \"CV-052\", \"kind\": \"glass\", \"limit\": 23300, \"deductible\": 1200}]}]",
+    "since_year": 2012
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-10": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Bram Stroud",
+    "policies": "[{\"id\": \"PL-019\", \"number\": \"P-7019\", \"product\": \"home\", \"start_year\": 2023, \"premium\": 550, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-053\", \"kind\": \"flood\", \"limit\": 56100, \"deductible\": 1000}, {\"id\": \"CV-054\", \"kind\": \"liability\", \"limit\": 10100, \"deductible\": 1450}]}]",
+    "since_year": 2019
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-11": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Ilka Abernath",
+    "policies": "[{\"id\": \"PL-020\", \"number\": \"P-7020\", \"product\": \"auto\", \"start_year\": 2018, \"premium\": 1300, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-055\", \"kind\": \"theft\", \"limit\": 54850, \"deductible\": 1400}, {\"id\": \"CV-056\", \"kind\": \"glass\", \"limit\": 82350, \"deductible\": 1450}]}]",
+    "since_year": 2014
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-12": {
+   "props": {
+    "city": "Corriston",
+    "name": "Greet Vantour",
+    "policies": "[{\"id\": \"PL-021\", \"number\": \"P-7021\", \"product\": \"auto\", \"start_year\": 2018, \"premium\": 1400, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-057\", \"kind\": \"collision\", \"limit\": 85250, \"deductible\": 850}, {\"id\": \"CV-058\", \"kind\": \"theft\", \"limit\": 14650, \"deductible\": 850}, {\"id\": \"CV-059\", \"kind\": \"liability\", \"limit\": 18700, \"deductible\": 950}, {\"id\": \"CV-060\", \"kind\": \"glass\", \"limit\": 13950, \"deductible\": 1450}]}, {\"id\": \"PL-022\", \"number\": \"P-7022\", \"product\": \"auto\", \"start_year\": 2020, \"premium\": 1350, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-061\", \"kind\": \"theft\", \"limit\": 56600, \"deductible\": 650}, {\"id\": \"CV-062\", \"kind\": \"liability\", \"limit\": 8200, \"deductible\": 750}]}, {\"id\": \"PL-023\", \"number\": \"P-7023\", \"product\": \"marine\", \"start_year\": 2021, \"premium\": 2600, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-063\", \"kind\": \"salvage\", \"limit\": 60700, \"deductible\": 1250}, {\"id\": \"CV-064\", \"kind\": \"hull\", \"limit\": 74400, \"deductible\": 850}]}]",
+    "since_year": 2017
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-13": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Ilka Duval",
+    "policies": "[{\"id\": \"PL-024\", \"number\": \"P-7024\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 2900, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-065\", \"kind\": \"liability\", \"limit\": 67800, \"deductible\": 1400}, {\"id\": \"CV-066\", \"kind\": \"hull\", \"limit\": 88200, \"deductible\": 250}]}]",
+    "since_year": 2024
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-14": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Petra Vantour",
+    "policies": "[{\"id\": \"PL-025\", \"number\": \"P-7025\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 700, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-067\", \"kind\": \"liability\", \"limit\": 86300, \"deductible\": 500}, {\"id\": \"CV-068\", \"kind\": \"hull\", \"limit\": 35300, \"deductible\": 1050}]}, {\"id\": \"PL-026\", \"number\": \"P-7026\", \"product\": \"auto\", \"start_year\": 2020, \"premium\": 600, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-069\", \"kind\": \"collision\", \"limit\": 50100, \"deductible\": 400}, {\"id\": \"CV-070\", \"kind\": \"glass\", \"limit\": 74800, \"deductible\": 100}, {\"id\": \"CV-071\", \"kind\": \"theft\", \"limit\": 41850, \"deductible\": 600}, {\"id\": \"CV-072\", \"kind\": \"liability\", \"limit\": 73100, \"deductible\": 1050}]}, {\"id\": \"PL-027\", \"number\": \"P-7027\", \"product\": \"marine\", \"start_year\": 2022, \"premium\": 1050, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-073\", \"kind\": \"liability\", \"limit\": 74150, \"deductible\": 1300}, {\"id\": \"CV-074\", \"kind\": \"salvage\", \"limit\": 87900, \"deductible\": 1450}, {\"id\": \"CV-075\", \"kind\": \"hull\", \"limit\": 82400, \"deductible\": 750}]}]",
+    "since_year": 2021
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-15": {
+   "props": {
+    "city": "Tarnholm",
+    "name": "Fenna Duval",
+    "policies": "[{\"id\": \"PL-028\", \"number\": \"P-7028\", \"product\": \"auto\", \"start_year\": 2022, \"premium\": 2450, \"renewed_from_id\": \"PL-029\", \"coverages\": [{\"id\": \"CV-076\", \"kind\": \"glass\", \"limit\": 41900, \"deductible\": 400}, {\"id\": \"CV-077\", \"kind\": \"liability\", \"limit\": 38650, \"deductible\": 850}]}, {\"id\": \"PL-029\", \"number\": \"P-7029\", \"product\": \"home\", \"start_year\": 2020, \"premium\": 950, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-078\", \"kind\": \"flood\", \"limit\": 73350, \"deductible\": 700}, {\"id\": \"CV-079\", \"kind\": \"liability\", \"limit\": 7650, \"deductible\": 1350}, {\"id\": \"CV-080\", \"kind\": \"theft\", \"limit\": 5000, \"deductible\": 750}]}, {\"id\": \"PL-030\", \"number\": \"P-7030\", \"product\": \"home\", \"start_year\": 2020, \"premium\": 1350, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-081\", \"kind\": \"flood\", \"limit\": 46150, \"deductible\": 1150}, {\"id\": \"CV-082\", \"kind\": \"fire\", \"limit\": 62050, \"deductible\": 1000}]}]",
+    "since_year": 2016
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-16": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Anouk Voss",
+    "policies": "[{\"id\": \"PL-031\", \"number\": \"P-7031\", \"product\": \"auto\", \"start_year\": 2019, \"premium\": 950, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-083\", \"kind\": \"collision\", \"limit\": 74400, \"deductible\": 1050}, {\"id\": \"CV-084\", \"kind\": \"liability\", \"limit\": 85350, \"deductible\": 550}, {\"id\": \"CV-085\", \"kind\": \"glass\", \"limit\": 8700, \"deductible\": 500}, {\"id\": \"CV-086\", \"kind\": \"theft\", \"limit\": 55950, \"deductible\": 1000}]}, {\"id\": \"PL-032\", \"number\": \"P-7032\", \"product\": \"home\", \"start_year\": 2024, \"premium\": 1800, \"renewed_from_id\": \"PL-031\", \"coverages\": [{\"id\": \"CV-087\", \"kind\": \"flood\", \"limit\": 63400, \"deductible\": 1450}, {\"id\": \"CV-088\", \"kind\": \"liability\", \"limit\": 17900, \"deductible\": 700}]}]",
+    "since_year": 2023
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-17": {
+   "props": {
+    "city": "Veldmark",
+    "name": "Malin Renner",
+    "policies": "[{\"id\": \"PL-033\", \"number\": \"P-7033\", \"product\": \"auto\", \"start_year\": 2025, \"premium\": 2150, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-089\", \"kind\": \"liability\", \"limit\": 73700, \"deductible\": 800}, {\"id\": \"CV-090\", \"kind\": \"collision\", \"limit\": 9050, \"deductible\": 1000}, {\"id\": \"CV-091\", \"kind\": \"glass\", \"limit\": 23450, \"deductible\": 200}]}]",
+    "since_year": 2019
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-18": {
+   "props": {
+    "city": "Tarnholm",
+    "name": "Elsa Sablon",
+    "policies": "[{\"id\": \"PL-034\", \"number\": \"P-7034\", \"product\": \"home\", \"start_year\": 2025, \"premium\": 2600, \"renewed_from_id\": \"PL-035\", \"coverages\": [{\"id\": \"CV-092\", \"kind\": \"theft\", \"limit\": 64700, \"deductible\": 800}, {\"id\": \"CV-093\", \"kind\": \"liability\", \"limit\": 11100, \"deductible\": 300}, {\"id\": \"CV-094\", \"kind\": \"flood\", \"limit\": 73700, \"deductible\": 700}, {\"id\": \"CV-095\", \"kind\": \"fire\", \"limit\": 65600, \"deductible\": 500}]}, {\"id\": \"PL-035\", \"number\": \"P-7035\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 1750, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-096\", \"kind\": \"hull\", \"limit\": 26850, \"deductible\": 400}, {\"id\": \"CV-097\", \"kind\": \"liability\", \"limit\": 46200, \"deductible\": 250}]}]",
+    "since_year": 2015
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-19": {
+   "props": {
+    "city": "Veldmark",
+    "name": "Greet Corvelle",
+    "policies": "[{\"id\": \"PL-036\", \"number\": \"P-7036\", \"product\": \"auto\", \"start_year\": 2021, \"premium\": 3000, \"renewed_from_id\": \"PL-037\", \"coverages\": [{\"id\": \"CV-098\", \"kind\": \"collision\", \"limit\": 70550, \"deductible\": 850}, {\"id\": \"CV-099\", \"kind\": \"theft\", \"limit\": 27400, \"deductible\": 1250}, {\"id\": \"CV-100\", \"kind\": \"liability\", \"limit\": 36300, \"deductible\": 400}, {\"id\": \"CV-101\", \"kind\": \"glass\", \"limit\": 89650, \"deductible\": 1450}]}, {\"id\": \"PL-037\", \"number\": \"P-7037\", \"product\": \"marine\", \"start_year\": 2019, \"premium\": 2250, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-102\", \"kind\": \"hull\", \"limit\": 23200, \"deductible\": 550}, {\"id\": \"CV-103\", \"kind\": \"liability\", \"limit\": 20300, \"deductible\": 350}]}]",
+    "since_year": 2016
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-20": {
+   "props": {
+    "city": "Silverden",
+    "name": "Jonas Corvelle",
+    "policies": "[{\"id\": \"PL-038\", \"number\": \"P-7038\", \"product\": \"home\", \"start_year\": 2024, \"premium\": 1450, \"renewed_from_id\": \"PL-039\", \"coverages\": [{\"id\": \"CV-104\", \"kind\": \"fire\", \"limit\": 37650, \"deductible\": 500}, {\"id\": \"CV-105\", \"kind\": \"liability\", \"limit\": 47650, \"deductible\": 400}]}, {\"id\": \"PL-039\", \"number\": \"P-7039\", \"product\": \"home\", \"start_year\": 2019, \"premium\": 1250, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-106\", \"kind\": \"liability\", \"limit\": 86850, \"deductible\": 1400}, {\"id\": \"CV-107\", \"kind\": \"fire\", \"limit\": 63500, \"deductible\": 400}]}]",
+    "since_year": 2017
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-21": {
+   "props": {
+    "city": "Veldmark",
+    "name": "Aldo Aldering",
+    "policies": "[{\"id\": \"PL-040\", \"number\": \"P-7040\", \"product\": \"home\", \"start_year\": 2020, \"premium\": 750, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-108\", \"kind\": \"liability\", \"limit\": 38400, \"deductible\": 800}, {\"id\": \"CV-109\", \"kind\": \"theft\", \"limit\": 7150, \"deductible\": 1050}]}, {\"id\": \"PL-041\", \"number\": \"P-7041\", \"product\": \"auto\", \"start_year\": 2024, \"premium\": 800, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-110\", \"kind\": \"collision\", \"limit\": 10900, \"deductible\": 850}, {\"id\": \"CV-111\", \"kind\": \"theft\", \"limit\": 5850, \"deductible\": 1250}]}, {\"id\": \"PL-042\", \"number\": \"P-7042\", \"product\": \"marine\", \"start_year\": 2024, \"premium\": 1600, \"renewed_from_id\": \"PL-040\", \"coverages\": [{\"id\": \"CV-112\", \"kind\": \"liability\", \"limit\": 42400, \"deductible\": 100}, {\"id\": \"CV-113\", \"kind\": \"salvage\", \"limit\": 21500, \"deductible\": 650}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-22": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Dario Vantour",
+    "policies": "[{\"id\": \"PL-043\", \"number\": \"P-7043\", \"product\": \"marine\", \"start_year\": 2024, \"premium\": 1100, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-114\", \"kind\": \"salvage\", \"limit\": 63200, \"deductible\": 950}, {\"id\": \"CV-115\", \"kind\": \"liability\", \"limit\": 49650, \"deductible\": 250}]}]",
+    "since_year": 2019
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-23": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Jonas Halloway",
+    "policies": "[{\"id\": \"PL-044\", \"number\": \"P-7044\", \"product\": \"home\", \"start_year\": 2021, \"premium\": 1950, \"renewed_from_id\": \"PL-045\", \"coverages\": [{\"id\": \"CV-116\", \"kind\": \"flood\", \"limit\": 39450, \"deductible\": 100}, {\"id\": \"CV-117\", \"kind\": \"theft\", \"limit\": 88800, \"deductible\": 200}, {\"id\": \"CV-118\", \"kind\": \"liability\", \"limit\": 8150, \"deductible\": 1300}]}, {\"id\": \"PL-045\", \"number\": \"P-7045\", \"product\": \"auto\", \"start_year\": 2020, \"premium\": 3050, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-119\", \"kind\": \"theft\", \"limit\": 78250, \"deductible\": 450}, {\"id\": \"CV-120\", \"kind\": \"liability\", \"limit\": 55100, \"deductible\": 1250}]}]",
+    "since_year": 2023
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-24": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Sten Renner",
+    "policies": "[{\"id\": \"PL-046\", \"number\": \"P-7046\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 1600, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-121\", \"kind\": \"hull\", \"limit\": 39300, \"deductible\": 1350}, {\"id\": \"CV-122\", \"kind\": \"liability\", \"limit\": 22350, \"deductible\": 850}, {\"id\": \"CV-123\", \"kind\": \"salvage\", \"limit\": 6250, \"deductible\": 1150}]}, {\"id\": \"PL-047\", \"number\": \"P-7047\", \"product\": \"auto\", \"start_year\": 2018, \"premium\": 450, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-124\", \"kind\": \"liability\", \"limit\": 39000, \"deductible\": 950}, {\"id\": \"CV-125\", \"kind\": \"collision\", \"limit\": 47300, \"deductible\": 150}, {\"id\": \"CV-126\", \"kind\": \"theft\", \"limit\": 75550, \"deductible\": 400}, {\"id\": \"CV-127\", \"kind\": \"glass\", \"limit\": 84300, \"deductible\": 100}]}, {\"id\": \"PL-048\", \"number\": \"P-7048\", \"product\": \"home\", \"start_year\": 2022, \"premium\": 2000, \"renewed_from_id\": \"PL-046\", \"coverages\": [{\"id\": \"CV-128\", \"kind\": \"flood\", \"limit\": 9550, \"deductible\": 1050}, {\"id\": \"CV-129\", \"kind\": \"theft\", \"limit\": 27850, \"deductible\": 900}, {\"id\": \"CV-130\", \"kind\": \"fire\", \"limit\": 28050, \"deductible\": 300}, {\"id\": \"CV-131\", \"kind\": \"liability\", \"limit\": 30800, \"deductible\": 1250}]}]",
+    "since_year": 2024
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-25": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Noor Abernath",
+    "policies": "[{\"id\": \"PL-049\", \"number\": \"P-7049\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 1650, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-132\", \"kind\": \"fire\", \"limit\": 56700, \"deductible\": 300}, {\"id\": \"CV-133\", \"kind\": \"liability\", \"limit\": 55500, \"deductible\": 150}, {\"id\": \"CV-134\", \"kind\": \"flood\", \"limit\": 10550, \"deductible\": 1200}, {\"id\": \"CV-135\", \"kind\": \"theft\", \"limit\": 53750, \"deductible\": 100}]}]",
+    "since_year": 2019
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-26": {
+   "props": {
+    "city": "Corriston",
+    "name": "Elsa Fenwick",
+    "policies": "[{\"id\": \"PL-050\", \"number\": \"P-7050\", \"product\": \"marine\", \"start_year\": 2022, \"premium\": 400, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-136\", \"kind\": \"salvage\", \"limit\": 64200, \"deductible\": 550}, {\"id\": \"CV-137\", \"kind\": \"hull\", \"limit\": 87000, \"deductible\": 200}]}]",
+    "since_year": 2012
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-27": {
+   "props": {
+    "city": "Brackwell",
+    "name": "Vera Bexley",
+    "policies": "[{\"id\": \"PL-051\", \"number\": \"P-7051\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 2850, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-138\", \"kind\": \"salvage\", \"limit\": 16650, \"deductible\": 400}, {\"id\": \"CV-139\", \"kind\": \"liability\", \"limit\": 77750, \"deductible\": 1250}, {\"id\": \"CV-140\", \"kind\": \"hull\", \"limit\": 62600, \"deductible\": 600}]}]",
+    "since_year": 2021
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-28": {
+   "props": {
+    "city": "Tarnholm",
+    "name": "Jonas Renner",
+    "policies": "[{\"id\": \"PL-052\", \"number\": \"P-7052\", \"product\": \"auto\", \"start_year\": 2021, \"premium\": 2550, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-141\", \"kind\": \"theft\", \"limit\": 83700, \"deductible\": 650}, {\"id\": \"CV-142\", \"kind\": \"glass\", \"limit\": 67300, \"deductible\": 550}, {\"id\": \"CV-143\", \"kind\": \"liability\", \"limit\": 84000, \"deductible\": 950}, {\"id\": \"CV-144\", \"kind\": \"collision\", \"limit\": 12700, \"deductible\": 1300}]}, {\"id\": \"PL-053\", \"number\": \"P-7053\", \"product\": \"home\", \"start_year\": 2024, \"premium\": 1850, \"renewed_from_id\": \"PL-052\", \"coverages\": [{\"id\": \"CV-145\", \"kind\": \"liability\", \"limit\": 84850, \"deductible\": 1250}, {\"id\": \"CV-146\", \"kind\": \"theft\", \"limit\": 69500, \"deductible\": 350}, {\"id\": \"CV-147\", \"kind\": \"fire\", \"limit\": 12950, \"deductible\": 1000}]}]",
+    "since_year": 2024
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-29": {
+   "props": {
+    "city": "Ostbay",
+    "name": "Sten Stroud",
+    "policies": "[{\"id\": \"PL-054\", \"number\": \"P-7054\", \"product\": \"auto\", \"start_year\": 2022, \"premium\": 1100, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-148\", \"kind\": \"theft\", \"limit\": 86600, \"deductible\": 1200}, {\"id\": \"CV-149\", \"kind\": \"glass\", \"limit\": 35200, \"deductible\": 500}, {\"id\": \"CV-150\", \"kind\": \"liability\", \"limit\": 34050, \"deductible\": 500}, {\"id\": \"CV-151\", \"kind\": \"collision\", \"limit\": 73900, \"deductible\": 350}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-30": {
+   "props": {
+    "city": "Dunmere",
+    "name": "Rurik Voss",
+    "policies": "[{\"id\": \"PL-055\", \"number\": \"P-7055\", \"product\": \"home\", \"start_year\": 2021, \"premium\": 1350, \"renewed_from_id\": \"PL-056\", \"coverages\": [{\"id\": \"CV-152\", \"kind\": \"theft\", \"limit\": 59450, \"deductible\": 1050}, {\"id\": \"CV-153\", \"kind\": \"flood\", \"limit\": 81450, \"deductible\": 250}]}, {\"id\": \"PL-056\", \"number\": \"P-7056\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 950, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-154\", \"kind\": \"liability\", \"limit\": 27850, \"deductible\": 650}, {\"id\": \"CV-155\", \"kind\": \"flood\", \"limit\": 54150, \"deductible\": 450}, {\"id\": \"CV-156\", \"kind\": \"theft\", \"limit\": 84000, \"deductible\": 1000}, {\"id\": \"CV-157\", \"kind\": \"fire\", \"limit\": 83200, \"deductible\": 550}]}]",
+    "since_year": 2017
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-31": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Jonas Stroud",
+    "policies": "[{\"id\": \"PL-057\", \"number\": \"P-7057\", \"product\": \"home\", \"start_year\": 2024, \"premium\": 700, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-158\", \"kind\": \"fire\", \"limit\": 77400, \"deductible\": 950}, {\"id\": \"CV-159\", \"kind\": \"theft\", \"limit\": 66900, \"deductible\": 100}]}]",
+    "since_year": 2021
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-32": {
+   "props": {
+    "city": "Corriston",
+    "name": "Petra Stroud",
+    "policies": "[{\"id\": \"PL-058\", \"number\": \"P-7058\", \"product\": \"home\", \"start_year\": 2024, \"premium\": 900, \"renewed_from_id\": \"PL-059\", \"coverages\": [{\"id\": \"CV-160\", \"kind\": \"liability\", \"limit\": 67750, \"deductible\": 1450}, {\"id\": \"CV-161\", \"kind\": \"theft\", \"limit\": 11600, \"deductible\": 1300}]}, {\"id\": \"PL-059\", \"number\": \"P-7059\", \"product\": \"home\", \"start_year\": 2021, \"premium\": 3150, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-162\", \"kind\": \"fire\", \"limit\": 66900, \"deductible\": 1400}, {\"id\": \"CV-163\", \"kind\": \"flood\", \"limit\": 33750, \"deductible\": 200}, {\"id\": \"CV-164\", \"kind\": \"liability\", \"limit\": 83800, \"deductible\": 1250}, {\"id\": \"CV-165\", \"kind\": \"theft\", \"limit\": 7400, \"deductible\": 1150}]}]",
+    "since_year": 2023
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-33": {
+   "props": {
+    "city": "Larkfield",
+    "name": "Petra Quist",
+    "policies": "[{\"id\": \"PL-060\", \"number\": \"P-7060\", \"product\": \"home\", \"start_year\": 2020, \"premium\": 650, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-166\", \"kind\": \"liability\", \"limit\": 81350, \"deductible\": 1200}, {\"id\": \"CV-167\", \"kind\": \"fire\", \"limit\": 36200, \"deductible\": 400}, {\"id\": \"CV-168\", \"kind\": \"flood\", \"limit\": 67350, \"deductible\": 900}]}, {\"id\": \"PL-061\", \"number\": \"P-7061\", \"product\": \"home\", \"start_year\": 2020, \"premium\": 3150, \"renewed_from_id\": \"PL-060\", \"coverages\": [{\"id\": \"CV-169\", \"kind\": \"fire\", \"limit\": 78250, \"deductible\": 950}, {\"id\": \"CV-170\", \"kind\": \"theft\", \"limit\": 82250, \"deductible\": 200}, {\"id\": \"CV-171\", \"kind\": \"liability\", \"limit\": 37100, \"deductible\": 350}, {\"id\": \"CV-172\", \"kind\": \"flood\", \"limit\": 53350, \"deductible\": 650}]}]",
+    "since_year": 2016
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-34": {
+   "props": {
+    "city": "Corriston",
+    "name": "Ilka Ferber",
+    "policies": "[{\"id\": \"PL-062\", \"number\": \"P-7062\", \"product\": \"auto\", \"start_year\": 2019, \"premium\": 2950, \"renewed_from_id\": \"PL-063\", \"coverages\": [{\"id\": \"CV-173\", \"kind\": \"glass\", \"limit\": 48250, \"deductible\": 1150}, {\"id\": \"CV-174\", \"kind\": \"collision\", \"limit\": 71800, \"deductible\": 1200}, {\"id\": \"CV-175\", \"kind\": \"liability\", \"limit\": 71700, \"deductible\": 1300}, {\"id\": \"CV-176\", \"kind\": \"theft\", \"limit\": 73700, \"deductible\": 550}]}, {\"id\": \"PL-063\", \"number\": \"P-7063\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 2800, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-177\", \"kind\": \"theft\", \"limit\": 80500, \"deductible\": 1150}, {\"id\": \"CV-178\", \"kind\": \"fire\", \"limit\": 84500, \"deductible\": 1450}, {\"id\": \"CV-179\", \"kind\": \"flood\", \"limit\": 50700, \"deductible\": 1200}, {\"id\": \"CV-180\", \"kind\": \"liability\", \"limit\": 20250, \"deductible\": 850}]}]",
+    "since_year": 2021
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-35": {
+   "props": {
+    "city": "Brackwell",
+    "name": "Casper Bexley",
+    "policies": "[{\"id\": \"PL-064\", \"number\": \"P-7064\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 2300, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-181\", \"kind\": \"liability\", \"limit\": 42350, \"deductible\": 1250}, {\"id\": \"CV-182\", \"kind\": \"salvage\", \"limit\": 37000, \"deductible\": 600}]}, {\"id\": \"PL-065\", \"number\": \"P-7065\", \"product\": \"home\", \"start_year\": 2025, \"premium\": 3100, \"renewed_from_id\": \"PL-064\", \"coverages\": [{\"id\": \"CV-183\", \"kind\": \"liability\", \"limit\": 6650, \"deductible\": 650}, {\"id\": \"CV-184\", \"kind\": \"flood\", \"limit\": 85050, \"deductible\": 950}]}]",
+    "since_year": 2015
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-36": {
+   "props": {
+    "city": "Corriston",
+    "name": "Sten Voss",
+    "policies": "[{\"id\": \"PL-066\", \"number\": \"P-7066\", \"product\": \"auto\", \"start_year\": 2024, \"premium\": 500, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-185\", \"kind\": \"theft\", \"limit\": 9400, \"deductible\": 550}, {\"id\": \"CV-186\", \"kind\": \"glass\", \"limit\": 62650, \"deductible\": 900}, {\"id\": \"CV-187\", \"kind\": \"liability\", \"limit\": 46050, \"deductible\": 750}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-37": {
+   "props": {
+    "city": "Tarnholm",
+    "name": "Fenna Marwick",
+    "policies": "[{\"id\": \"PL-067\", \"number\": \"P-7067\", \"product\": \"auto\", \"start_year\": 2020, \"premium\": 2550, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-188\", \"kind\": \"glass\", \"limit\": 48400, \"deductible\": 950}, {\"id\": \"CV-189\", \"kind\": \"liability\", \"limit\": 75400, \"deductible\": 1250}, {\"id\": \"CV-190\", \"kind\": \"collision\", \"limit\": 45350, \"deductible\": 600}, {\"id\": \"CV-191\", \"kind\": \"theft\", \"limit\": 49100, \"deductible\": 1400}]}, {\"id\": \"PL-068\", \"number\": \"P-7068\", \"product\": \"home\", \"start_year\": 2024, \"premium\": 2950, \"renewed_from_id\": \"PL-067\", \"coverages\": [{\"id\": \"CV-192\", \"kind\": \"liability\", \"limit\": 37400, \"deductible\": 450}, {\"id\": \"CV-193\", \"kind\": \"theft\", \"limit\": 36350, \"deductible\": 1350}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-38": {
+   "props": {
+    "city": "Brackwell",
+    "name": "Noor Sablon",
+    "policies": "[{\"id\": \"PL-069\", \"number\": \"P-7069\", \"product\": \"home\", \"start_year\": 2022, \"premium\": 450, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-194\", \"kind\": \"liability\", \"limit\": 67450, \"deductible\": 600}, {\"id\": \"CV-195\", \"kind\": \"flood\", \"limit\": 16200, \"deductible\": 1300}, {\"id\": \"CV-196\", \"kind\": \"fire\", \"limit\": 42050, \"deductible\": 700}, {\"id\": \"CV-197\", \"kind\": \"theft\", \"limit\": 43700, \"deductible\": 1250}]}, {\"id\": \"PL-070\", \"number\": \"P-7070\", \"product\": \"home\", \"start_year\": 2018, \"premium\": 2900, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-198\", \"kind\": \"fire\", \"limit\": 41650, \"deductible\": 1250}, {\"id\": \"CV-199\", \"kind\": \"theft\", \"limit\": 58750, \"deductible\": 1150}, {\"id\": \"CV-200\", \"kind\": \"liability\", \"limit\": 88850, \"deductible\": 700}, {\"id\": \"CV-201\", \"kind\": \"flood\", \"limit\": 51350, \"deductible\": 450}]}, {\"id\": \"PL-071\", \"number\": \"P-7071\", \"product\": \"marine\", \"start_year\": 2018, \"premium\": 2100, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-202\", \"kind\": \"liability\", \"limit\": 88550, \"deductible\": 350}, {\"id\": \"CV-203\", \"kind\": \"hull\", \"limit\": 60950, \"deductible\": 750}]}]",
+    "since_year": 2017
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-39": {
+   "props": {
+    "city": "Veldmark",
+    "name": "Maren Oduya",
+    "policies": "[{\"id\": \"PL-072\", \"number\": \"P-7072\", \"product\": \"auto\", \"start_year\": 2021, \"premium\": 2400, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-204\", \"kind\": \"glass\", \"limit\": 88650, \"deductible\": 600}, {\"id\": \"CV-205\", \"kind\": \"liability\", \"limit\": 43800, \"deductible\": 1450}, {\"id\": \"CV-206\", \"kind\": \"collision\", \"limit\": 6150, \"deductible\": 750}, {\"id\": \"CV-207\", \"kind\": \"theft\", \"limit\": 32350, \"deductible\": 1050}]}, {\"id\": \"PL-073\", \"number\": \"P-7073\", \"product\": \"marine\", \"start_year\": 2020, \"premium\": 1400, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-208\", \"kind\": \"liability\", \"limit\": 59950, \"deductible\": 650}, {\"id\": \"CV-209\", \"kind\": \"salvage\", \"limit\": 70050, \"deductible\": 850}, {\"id\": \"CV-210\", \"kind\": \"hull\", \"limit\": 14800, \"deductible\": 1050}]}, {\"id\": \"PL-074\", \"number\": \"P-7074\", \"product\": \"home\", \"start_year\": 2025, \"premium\": 2350, \"renewed_from_id\": \"PL-073\", \"coverages\": [{\"id\": \"CV-211\", \"kind\": \"flood\", \"limit\": 64450, \"deductible\": 750}, {\"id\": \"CV-212\", \"kind\": \"theft\", \"limit\": 63850, \"deductible\": 400}]}]",
+    "since_year": 2020
+   },
+   "type": "policyholder"
+  },
+  "policyholder:PH-40": {
+   "props": {
+    "city": "Veldmark",
+    "name": "Dario Marwick",
+    "policies": "[{\"id\": \"PL-075\", \"number\": \"P-7075\", \"product\": \"auto\", \"start_year\": 2021, \"premium\": 1550, \"renewed_from_id\": null, \"coverages\": [{\"id\": \"CV-213\", \"kind\": \"theft\", \"limit\": 30900, \"deductible\": 1100}, {\"id\": \"CV-214\", \"kind\": \"liability\", \"limit\": 60050, \"deductible\": 1300}, {\"id\": \"CV-215\", \"kind\": \"collision\", \"limit\": 44950, \"deductible\": 550}, {\"id\": \"CV-216\", \"kind\": \"glass\", \"limit\": 36800, \"deductible\": 200}]}]",
+    "since_year": 2012
+   },
+   "type": "policyholder"
+  }
+ },
+ "variant": "flat"
+}
