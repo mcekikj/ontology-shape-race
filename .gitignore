@@ -18,3 +18,11 @@ dist/
 .vscode/
 .idea/
 .DS_Store
+
+# Screenshot tooling stays local - the portal captures and the script
+# that stitches them belong to the manuscript workflow, not the experiment
+figures/compose_screenshots.py
+figures/raw/
+figures/s1/
+figures/s2/
+figures/s3/

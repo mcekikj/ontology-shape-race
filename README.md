@@ -23,7 +23,11 @@ Working title: *Your Agent Is Not Confused, Your Ontology Is.*
 
 ## Headline results
 
-All figures below are the Cosmos campaigns - the measured ones.
+All figures below are the Cosmos campaigns - the measured ones. The entire
+compute footprint behind them is one Microsoft Foundry resource carrying the
+two deployments declared in `code/infra.bicep`:
+
+![The two model deployments in the Foundry portal](figures/upload/screenshot-s3-deployments.png)
 
 Small model, three passes, accuracy over all bands: **shaped 0.842, flat
 0.783, normalized 0.592**, with run-to-run spreads of 0.075, 0.075 and 0.150
@@ -74,9 +78,7 @@ you run a cheap model.
 - `figures/` - `tables.py` renders all seven of the article's tables,
   `json_triptych.py` the raw-data comparison and `cover.py` the featured
   image; every value and every drawn subgraph is computed from the receipts
-  and the graph files, so a re-run re-renders correct figures.
-  `compose_screenshots.py` stitches portal captures from `figures/raw/` into
-  the article's screenshot figures
+  and the graph files, so a re-run re-renders correct figures
 - `diagrams/` - mermaid sources, `render.py`, and the rendered PNGs
 - `docs/azure-setup.md` - infrastructure, run and teardown guide
 - `docs/gremlin-queries.md` - the same questions asked of all three graphs in
@@ -127,6 +129,18 @@ g.V().hasLabel('policy').count()
 returns **0** on flat (a policy is not a node), **0** on normalized (it is a
 node, but labelled `Resource`), and **75** on shaped. Two zeros, two different
 diseases.
+
+The Data Explorer makes both points visible. Ask each graph what kinds of
+thing it contains and you get three different vocabularies for the same facts:
+
+![The same groupCount query against each graph](figures/upload/screenshot-s1-vocabularies.png)
+
+And select one claim - C-31020 - in each graph to see how far its neighbours
+sit. Flat reaches one vertex, with the adjuster and the policy trapped in the
+properties panel as text; normalized reaches eight, none of them named in the
+language of the domain; shaped reaches three, on named edges:
+
+![Claim C-31020 and its neighbours in each schema](figures/upload/screenshot-s2-neighbourhoods.png)
 
 ## The rules that make it an experiment
 
