@@ -50,25 +50,40 @@ def frame(d, box, label, colour):
                fill=colour)
 
 
-def stacked(files, title, note, out_name, slot_h=190):
+def stacked(files, title, note, out_name, slot_h=190,
+            side_by_side=False):
     """Three captures stacked vertically, each labelled - used for S1."""
     ims = {k: load(v) for k, v in files.items()}
     missing = [v for k, v in files.items() if ims[k] is None]
     if missing:
         print(f"skipped {out_name}: missing {', '.join(missing)}")
         return
-    pad, gap, head = 26, 14, 74
-    h = head + len(ims) * (slot_h + gap) - gap + pad + (34 if note else 0)
-    img = Image.new("RGB", (W, h), BG)
-    d = ImageDraw.Draw(img)
-    d.text((pad, 24), title, font=font(25, True), fill=INK)
-    y = head
-    for name, im in ims.items():
-        box = [pad, y, W - pad, y + slot_h]
-        frame(d, box, name, ACCENT[name])
-        art = scaled(im, W - 2 * pad - 190, slot_h - 24)
-        img.paste(art, (pad + 176, y + (slot_h - art.height) // 2))
-        y += slot_h + gap
+    pad, gap, head = 26, 18, 74
+    if side_by_side:
+        col = (W - 2 * pad - 2 * gap) // 3
+        h = head + slot_h + pad + (34 if note else 0)
+        img = Image.new("RGB", (W, h), BG)
+        d = ImageDraw.Draw(img)
+        d.text((pad, 24), title, font=font(25, True), fill=INK)
+        for i, (name, im) in enumerate(ims.items()):
+            x = pad + i * (col + gap)
+            box = [x, head, x + col, head + slot_h]
+            frame(d, box, name, ACCENT[name])
+            art = scaled(im, col - 26, slot_h - 62)
+            img.paste(art, (x + (col - art.width) // 2, head + 48))
+        y = head + slot_h
+    else:
+        h = head + len(ims) * (slot_h + gap) - gap + pad + (34 if note else 0)
+        img = Image.new("RGB", (W, h), BG)
+        d = ImageDraw.Draw(img)
+        d.text((pad, 24), title, font=font(25, True), fill=INK)
+        y = head
+        for name, im in ims.items():
+            box = [pad, y, W - pad, y + slot_h]
+            frame(d, box, name, ACCENT[name])
+            art = scaled(im, W - 2 * pad - 190, slot_h - 24)
+            img.paste(art, (pad + 176, y + (slot_h - art.height) // 2))
+            y += slot_h + gap
     if note:
         d.text((pad, y + 4), note, font=font(18), fill=DIM)
     OUT.mkdir(exist_ok=True)
@@ -128,9 +143,9 @@ if __name__ == "__main__":
     stacked({"flat": "s1-flat.png", "normalized": "s1-normalized.png",
              "shaped": "s1-shaped.png"},
             "g.V().groupCount().by(label) - the same query, three schemas",
-            "Two labels, three meta-labels, or the domain in its own words. "
-            "Captured in the Cosmos DB Data Explorer.",
-            "screenshot-s1-vocabularies.png")
+            "Two labels, three meta-labels, or the domain in its own words - "
+            "captured in the Cosmos DB Data Explorer.",
+            "screenshot-s1-vocabularies.png", slot_h=430, side_by_side=True)
     sidebyside({"flat": "s2-flat.png", "normalized": "s2-normalized.png",
                 "shaped": "s2-shaped.png"},
                "Claim C-31020 and its neighbours, as each schema stores it",
