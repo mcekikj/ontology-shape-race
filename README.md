@@ -74,7 +74,9 @@ you run a cheap model.
 - `figures/` - `tables.py` renders all seven of the article's tables,
   `json_triptych.py` the raw-data comparison and `cover.py` the featured
   image; every value and every drawn subgraph is computed from the receipts
-  and the graph files, so a re-run re-renders correct figures
+  and the graph files, so a re-run re-renders correct figures.
+  `compose_screenshots.py` stitches portal captures from `figures/raw/` into
+  the article's screenshot figures
 - `diagrams/` - mermaid sources, `render.py`, and the rendered PNGs
 - `docs/azure-setup.md` - infrastructure, run and teardown guide
 - `docs/gremlin-queries.md` - the same questions asked of all three graphs in
