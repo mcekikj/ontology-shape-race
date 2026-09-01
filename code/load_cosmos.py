@@ -28,7 +28,9 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 DATABASE = "ontologies"
-SHAPES = ["flat", "normalized", "shaped"]
+SHAPES = ["flat", "normalized", "shaped",
+          # article 4: the winner taken apart - see build_ablations.py
+          "shaped-minus", "shaped-anon", "shaped-bare"]
 WAVE = 10           # concurrent in-flight requests. Cosmos takes one
                     # traversal per request - multi-statement scripts are
                     # rejected - so throughput comes from concurrency, but

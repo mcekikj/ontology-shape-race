@@ -87,7 +87,7 @@ resource gremlinDb 'Microsoft.DocumentDB/databaseAccounts/gremlinDatabases@2024-
 // One graph per ontology, so each can be browsed and queried on its own.
 @batchSize(1)
 resource graphs 'Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs@2024-11-15' = [
-  for shape in ['flat', 'normalized', 'shaped']: {
+  for shape in ['flat', 'normalized', 'shaped', 'shaped-minus', 'shaped-anon', 'shaped-bare']: {
     parent: gremlinDb
     name: shape
     properties: {
